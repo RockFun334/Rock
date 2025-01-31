@@ -58,10 +58,10 @@ http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV-17-HD/1000.m3u8?version=1
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250131035130495347&programid=G_CCTV_4K&bandwidth=23779894&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV_4K
 
 
-#EXTINF:-1,教育综合频道高清
+#EXTINF:-1,教育综合频道
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_CETV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250131034608495433&programid=G_CETV-1-HD&bandwidth=12348742&ispcode=27&timeformat=local&channel=G_CETV-1-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CETV-1-HD
 
-#EXTINF:-1,CGTN记录频道高清
+#EXTINF:-1,CGTN记录频道
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_CGTVJL-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131034816497541&programid=G_CGTVJL-HD&bandwidth=12297907&ispcode=27&timeformat=local&channel=G_CGTVJL-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CGTVJL-HD
 
 #EXTINF:-1,云南卫视
@@ -70,103 +70,103 @@ http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_YUNNAN-HD/1000.m3u8?version=1.
 #EXTINF:-1,云南都市
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_YNTV-2-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3879520250131035722497464&programid=G_YNTV-2-HD&zte_bandwidth=1000&bandwidth=12580208&ispcode=27&timeformat=local&channel=G_YNTV-2-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-2-HD
 
-#EXTINF:-1,云南娱乐高清
+#EXTINF:-1,云南娱乐
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_YNTV-3-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3872420250131035800496852&programid=G_YNTV-3-HD&zte_bandwidth=1000&bandwidth=12336710&ispcode=27&timeformat=local&channel=G_YNTV-3-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-3-HD
 
-#EXTINF:-1,云南影视高清
+#EXTINF:-1,云南影视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_YNTV-5-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861520250131035838494913&programid=G_YNTV-5-HD&zte_bandwidth=1000&bandwidth=12355510&ispcode=27&timeformat=local&channel=G_YNTV-5-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-5-HD
 
-#EXTINF:-1,云南康旅频道高清
+#EXTINF:-1,云南康旅频道
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_YNTV-6-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250131035933495916&programid=G_YNTV-6-HD&zte_bandwidth=1000&bandwidth=12460790&ispcode=27&timeformat=local&channel=G_YNTV-6-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-6-HD
 
-#EXTINF:-1,云南少儿高清
+#EXTINF:-1,云南少儿
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_YNTVSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878220250131040015497273&programid=G_YNTVSE-HD&zte_bandwidth=1000&bandwidth=12440486&ispcode=27&timeformat=local&channel=G_YNTVSE-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTVSE-HD+
 
-#EXTINF:-1,浙江卫视高清
+#EXTINF:-1,浙江卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/ZJWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250131041139499015&programid=ZJWS-HD&zte_bandwidth=1000&bandwidth=12304524&ispcode=27&timeformat=local&channel=ZJWS-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=ZJWS-HD
 
-#EXTINF:-1,江苏卫视高清
+#EXTINF:-1,江苏卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_JIANGSU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867020250131042315496703&programid=G_JIANGSU-HD&zte_bandwidth=1000&bandwidth=12412361&ispcode=27&timeformat=local&channel=G_JIANGSU-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGSU-HD
 
-#EXTINF:-1,湖南卫视高清
+#EXTINF:-1,湖南卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/HNWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3881320250131042407498973&programid=HNWS-HD&zte_bandwidth=1000&bandwidth=12372656&ispcode=27&timeformat=local&channel=HNWS-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=HNWS-HD
 
-#EXTINF:-1,东方卫视高清
+#EXTINF:-1,东方卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/DFWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880720250131042506496623&programid=DFWS-HD&zte_bandwidth=1000&bandwidth=12387545&ispcode=27&timeformat=local&channel=DFWS-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=DFWS-HD
 
-#EXTINF:-1,北京卫视高清
+#EXTINF:-1,北京卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/BTV-1/1000.m3u8?version=1.0&IASHttpSessionId=RR3860120250131042601497914&programid=BTV-1&bandwidth=3816249&ispcode=27&timeformat=local&channel=BTV-1&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=BTV-1
 
-#EXTINF:-1,天津卫视高清
+#EXTINF:-1,天津卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_TIANJIN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131042643498760&programid=G_TIANJIN-HD&zte_bandwidth=1000&bandwidth=12472371&ispcode=27&timeformat=local&channel=G_TIANJIN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_TIANJIN-HD
 
-#EXTINF:-1,安徽卫视高清
+#EXTINF:-1,安徽卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_ANHUI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860820250131042718500681&programid=G_ANHUI-HD&bandwidth=3765564&ispcode=27&timeformat=local&channel=G_ANHUI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ANHUI-HD
 
-#EXTINF:-1,深圳卫视高清
+#EXTINF:-1,深圳卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/SZWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131042758498949&programid=SZWS-HD&bandwidth=12414316&ispcode=27&timeformat=local&channel=SZWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=SZWS-HD
 
-#EXTINF:-1,重庆卫视高清
+#EXTINF:-1,重庆卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_CHONGQING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878220250131042837498192&programid=G_CHONGQING-HD&bandwidth=3822566&ispcode=27&timeformat=local&channel=G_CHONGQING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CHONGQING-HD
 
-#EXTINF:-1,山东卫视高清
+#EXTINF:-1,山东卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_SHANDONG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3874120250131042934498238&programid=G_SHANDONG-HD&bandwidth=12520048&ispcode=27&timeformat=local&channel=G_SHANDONG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANDONG-HD
 
-#EXTINF:-1,辽宁卫视高清
+#EXTINF:-1,辽宁卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_LIAONING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867020250131043010496949&programid=G_LIAONING-HD&bandwidth=3793689&ispcode=27&timeformat=local&channel=G_LIAONING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_LIAONING-HD
 
-#EXTINF:-1,湖北卫视高清
+#EXTINF:-1,湖北卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HUBEI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865620250131043054493938&programid=G_HUBEI-HD&zte_bandwidth=1000&bandwidth=3748419&ispcode=27&timeformat=local&channel=G_HUBEI-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_HUBEI-HD
 
-#EXTINF:-1,四川卫视高清
+#EXTINF:-1,四川卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_SICHUAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250131043133501324&programid=G_SICHUAN-HD&zte_bandwidth=1000&bandwidth=3747216&ispcode=27&timeformat=local&channel=G_SICHUAN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_SICHUAN-HD
 
-#EXTINF:-1,黑龙江卫视高清
+#EXTINF:-1,黑龙江卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HEILONGJIANG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861320250131043213499093&programid=G_HEILONGJIANG-HD&bandwidth=12389952&ispcode=27&timeformat=local&channel=G_HEILONGJIANG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEILONGJIANG-HD
 
-#EXTINF:-1,江西卫视高清
+#EXTINF:-1,江西卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_JIANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250131043255501376&programid=G_JIANGXI-HD&zte_bandwidth=1000&bandwidth=3799856&ispcode=27&timeformat=local&channel=G_JIANGXI-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGXI-HD
 
-#EXTINF:-1,东南卫视高清
+#EXTINF:-1,东南卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_DONGNAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3879520250131043330498690&programid=G_DONGNAN-HD&bandwidth=3757593&ispcode=27&timeformat=local&channel=G_DONGNAN-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DONGNAN-HD
 
-#EXTINF:-1,贵州卫视高清
+#EXTINF:-1,贵州卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_GUIZHOU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865320250131043411497036&programid=G_GUIZHOU-HD&bandwidth=12372204&ispcode=27&timeformat=local&channel=G_GUIZHOU-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUIZHOU-HD
 
-#EXTINF:-1,广东卫视高清
+#EXTINF:-1,广东卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/GDWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3876320250131043449498727&programid=GDWS-HD&bandwidth=12404841&ispcode=27&timeformat=local&channel=GDWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=GDWS-HD
 
-#EXTINF:-1,河南卫视高清
+#EXTINF:-1,河南卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_HENAN_HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131043524499187&programid=G_HENAN_HD&bandwidth=3813091&ispcode=27&timeformat=local&channel=G_HENAN_HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HENAN_HD
 
-#EXTINF:-1,吉林卫视高清
+#EXTINF:-1,吉林卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_JILIN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3881620250131043558498165&programid=G_JILIN-HQ&bandwidth=3808729&ispcode=27&timeformat=local&channel=G_JILIN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_JILIN-HQ
 
-#EXTINF:-1,河北卫视高清
+#EXTINF:-1,河北卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_HEBEI-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3864420250131043657499648&programid=G_HEBEI-HQ&bandwidth=12344230&ispcode=27&timeformat=local&channel=G_HEBEI-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEBEI-HQ
 
-#EXTINF:-1,广西卫视高清
+#EXTINF:-1,广西卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_GUANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250131043738496999&programid=G_GUANGXI-HD&bandwidth=3776995&ispcode=27&timeformat=local&channel=G_GUANGXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUANGXI-HD
 
-#EXTINF:-1,陕西卫视高清
+#EXTINF:-1,陕西卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_SHANXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250131043806498144&programid=G_SHANXI-HD&bandwidth=12327235&ispcode=27&timeformat=local&channel=G_SHANXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANXI-HD
 
-#EXTINF:-1,海南卫视高清
+#EXTINF:-1,海南卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HAINAN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131043838499170&programid=G_HAINAN-HQ&bandwidth=3811436&ispcode=27&timeformat=local&channel=G_HAINAN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HAINAN-HQ
 
-#EXTINF:-1,金鹰纪实高清
+#EXTINF:-1,金鹰纪实
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HAINAN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131043838499170&programid=G_HAINAN-HQ&bandwidth=3811436&ispcode=27&timeformat=local&channel=G_HAINAN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HAINAN-HQ
 
 #EXTINF:-1,北京纪实科教频道
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_BEIJINGJS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880120250131043953496518&programid=G_BEIJINGJS-HD&bandwidth=12405744&ispcode=27&timeformat=local&channel=G_BEIJINGJS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BEIJINGJS-HD
 
-#EXTINF:-1,山西卫视高清
+#EXTINF:-1,山西卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_SXWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861520250131044040496272&programid=G_SXWS-HD&bandwidth=3862723&ispcode=27&timeformat=local&channel=G_SXWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SXWS-HD
 
-#EXTINF:-1,甘肃卫视高清
+#EXTINF:-1,甘肃卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_GSWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250131044321500069&programid=G_GSWS-HD&bandwidth=3790531&ispcode=27&timeformat=local&channel=G_GSWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GSWS-HD
 
-#EXTINF:-1,卡酷少儿高清
+#EXTINF:-1,卡酷少儿
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_KKSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863220250131044627499747&programid=G_KKSE-HD&bandwidth=3866032&ispcode=27&timeformat=local&channel=G_KKSE-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_KKSE-HD
 
 #EXTINF:-1,欢笑剧场4K(测试）
