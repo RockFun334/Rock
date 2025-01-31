@@ -235,3 +235,29 @@ http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_WENWUBAOKU/1000.m3u8?version=1
 #EXTINF:-1,峨山县广播电视台
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId=RR3862920250131050956496690&programid=eshan&zte_bandwidth=1000&bandwidth=3898668&ispcode=27&timeformat=local&channel=eshan&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=eshan
 
+#EXTINF:-1,CHC动作电影
+https://www.freetv.top/migu/644368714.m3u8?migutoken=4d2db8867785d259f353c8510b5c77179e39b448efdba0dfaf94ea0658070df5655c380fda77d6d7571308bafa243ea34d2c5b4f213ce2202212c59e81ec4514a849a1a95e24fcf40168b56ef0
+
+#EXTINF:-1,CHC家庭影院
+https://www.freetv.top/migu/644368373.m3u8?migutoken=64476baa6991fe6ab216970a9a4921430b9d1523716bcb81d99ac638c7e6310174f9ecdb4e772a085ac5318ab4dee9309f3c5b23e65d78ac9e9e77a127aa4e5f22dd3295264594b4d250b60be2
+
+#EXTINF:-1,重温经典
+http://120.76.248.139/live/bfgd/4200000635.m3u8
+
+#EXTINF:-1,CHC华诚影视
+http://120.76.248.139/live/bfgd/4200000289.m3u8
+
+#EXTINF:-1,北京IPTV淘电影
+http://123.118.50.221:8686/rtp/239.3.1.250:8001
+
+#EXTINF:-1,上海|新视觉HD
+http://120.76.248.139/live/bfgd/4200000249.m3u8
+
+#EXTINF:-1,MTV Live HD 音乐频道
+http://4gtv.mumi.rip:9877/213/4gtv-live025/index.m3u8
+
+#EXTINF:-1,摇滚行动 ROCK Action
+http://4gtv.mumi.rip:9877/180/4gtv-live138/index.m3u8
+
+#EXTINF:-1,热爱自然 Love Nature
+http://4gtv.mumi.rip:9877/139/4gtv-live208/index.m3u8
