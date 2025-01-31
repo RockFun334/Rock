@@ -58,10 +58,10 @@ http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV-17-HD/1000.m3u8?version=1
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250131035130495347&programid=G_CCTV_4K&bandwidth=23779894&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV_4K
 
 
-#EXTINF:-1,教育综合频道
+#EXTINF:-1,教育综合
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_CETV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250131034608495433&programid=G_CETV-1-HD&bandwidth=12348742&ispcode=27&timeformat=local&channel=G_CETV-1-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CETV-1-HD
 
-#EXTINF:-1,CGTN记录频道
+#EXTINF:-1,CGTN记录
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_CGTVJL-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131034816497541&programid=G_CGTVJL-HD&bandwidth=12297907&ispcode=27&timeformat=local&channel=G_CGTVJL-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CGTVJL-HD
 
 #EXTINF:-1,云南卫视
@@ -76,7 +76,7 @@ http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_YNTV-3-HD/1000.m3u8?version=1.
 #EXTINF:-1,云南影视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_YNTV-5-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861520250131035838494913&programid=G_YNTV-5-HD&zte_bandwidth=1000&bandwidth=12355510&ispcode=27&timeformat=local&channel=G_YNTV-5-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-5-HD
 
-#EXTINF:-1,云南康旅频道
+#EXTINF:-1,云南康旅
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_YNTV-6-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250131035933495916&programid=G_YNTV-6-HD&zte_bandwidth=1000&bandwidth=12460790&ispcode=27&timeformat=local&channel=G_YNTV-6-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-6-HD
 
 #EXTINF:-1,云南少儿
@@ -241,7 +241,7 @@ https://www.freetv.top/migu/644368373.m3u8?migutoken=64476baa6991fe6ab216970a9a4
 #EXTINF:-1,重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1,广州南国都市
+#EXTINF:-1,南国都市
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
 #EXTINF:-1,广州影视
