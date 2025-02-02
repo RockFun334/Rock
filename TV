@@ -169,7 +169,7 @@ http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_GSWS-HD/1000.m3u8?version=1.0&
 #EXTINF:-1,卡酷少儿
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_KKSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863220250131044627499747&programid=G_KKSE-HD&bandwidth=3866032&ispcode=27&timeformat=local&channel=G_KKSE-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_KKSE-HD
 
-#EXTINF:-1,欢笑剧场4K
+#EXTINF:-1,欢笑剧场
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_HUANXIAO_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3870120250131044720502543&programid=G_HUANXIAO_4K&bandwidth=23446908&ispcode=27&timeformat=local&channel=G_HUANXIAO_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HUANXIAO_4K
 
 #EXTINF:-1,高尔夫网球
