@@ -173,40 +173,10 @@ http://35455.koyeb.app/rptv/HD-10000k-1080P-fhchinese5s.m3u8?license=cntv
 http://35455.koyeb.app/rptv/HD-10000k-1080P-fhzixun5s.m3u8?license=cntv
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.v1.mk/logo/凤凰卫视香港.png",凤凰卫视香港
 http://35455.koyeb.app/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/cgtn.png",CGTN
-http://35455.koyeb.app/itv/7745129417417101820.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/CGTN记录.png",CGTN-记录
-http://35455.koyeb.app/itv/7114647837765104058.m3u8?cdn=hnbblive
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/CGTNALBY.png",cgtnar-高码
-http://35455.koyeb.app/gaoma/cgtnar.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/cgtndocumentary.png",cgtndoc-高码
-http://35455.koyeb.app/gaoma/cgtndoc.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/CGTN.png",cgtnen-高码
-http://35455.koyeb.app/gaoma/cgtnen.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/cgtnfrench.png",cgtnfr-高码
-http://35455.koyeb.app/gaoma/cgtnfr.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/CGTN1.png",cgtnru-高码
-http://35455.koyeb.app/gaoma/cgtnru.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="https://epg.v1.mk/logo/CGTN1.png",cgtnsp-高码
-http://35455.koyeb.app/gaoma/cgtnsp.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/重温经典.png",重温经典
 https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png",CHC家庭影院
 https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png",CHC动作电影
-https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/cctv4k.png",cctv4k-SDR
-http://35455.koyeb.app/rptv/G_CCTV-4K-HD.m3u8?license=gitv
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/cctv4k.png",cctv4k_10m
-http://35455.koyeb.app/gaoma/cctv4k_10m.m3u8
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/cctv4k.png",cctv4k
-http://35455.koyeb.app/gaoma/cctv4k.m3u8
-#EXTINF:-1 group-title="8K频道" tvg-logo="https://epg.v1.mk/logo/北京纪实科教8K.png",北京纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
-#EXTINF:-1 group-title="8K频道" tvg-logo="https://epg.v1.mk/logo/cctv8k.png",cctv8k_36m
-http://35455.koyeb.app/gaoma/cctv8k_36m.m3u8
-#EXTINF:-1 group-title="8K频道" tvg-logo="https://epg.v1.mk/logo/cctv8k.png",cctv8k_120m
-http://35455.koyeb.app/gaoma/cctv8k_120m.m3u8
 
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/中国教育1台.png",中国教育电视台-1
 http://35455.koyeb.app/itv/5000000002000002652.m3u8?cdn=bestzb
@@ -355,28 +325,12 @@ http://35455.koyeb.app/itv/1000000005000265017.m3u8?cdn=ystenlive
 
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/华数4K.png",华数-4K
 http://35455.koyeb.app/itv/6000000003000004748.m3u8?cdn=wasusyt
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/纯享4K.png",纯享-4K
-http://35455.koyeb.app/itv/1000000004000011651.m3u8?cdn=ystenlive
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/纯享4K.png",纯享4K-2
-http://35455.koyeb.app/rptv/HD-20M-2160P-chunxiang4k.m3u8?license=cntv
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png",咪咕4K-1
-http://35455.koyeb.app/itv/3000000010000005180.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/咪咕4K.png",咪咕4K-2
-http://35455.koyeb.app/itv/3000000010000015686.m3u8?cdn=FifastbLive
-#EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/睛彩篮球.png",篮球4K
-http://35455.koyeb.app/rptv/miguaoyun01-AVS-4K01.m3u8?license=gitv
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/睛彩竞技.png",高清臻享睛彩竞技
-http://35455.koyeb.app/rptv/miguaoyun1-AVS.m3u8?license=gitv
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/LOVENATURE.png",Love Nature 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/LOUPE4K.png",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 group-title="4K频道" tvg-logo="https://epg.v1.mk/logo/FASHIONONE.png",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/睛彩青少.png",睛彩青少-AVS
-http://35455.koyeb.app/rptv/G_MIGUJCQS.m3u8?license=gitv
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png",咪咕全民热练
-http://35455.koyeb.app/itv/3000000020000031315.m3u8?cdn=FifastbLive
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/求索动物.png",求索动物
 http://35455.koyeb.app/itv/6000000002000010046.m3u8?cdn=wasusyt
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.v1.mk/logo/求索纪录.png",求索纪录
