@@ -244,18 +244,6 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 #EXTINF:-1,南国都市
 http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
-#EXTINF:-1,广州影视
-http://php.jdshipin.com:8880/gztv.php?id=yingshi
-
-#EXTINF:-1,广州综合
-http://php.jdshipin.com:8880/gztv.php?id=zhonghe
-
-#EXTINF:-1,东森电影
-http://50.7.234.10:8278/ettvmovie/playlist.m3u8?tid=MDED1943740419437404&ct=19225&tsum=120834a4218c4b5c3bb19efb8116f859
-
-#EXTINF:-1,东森洋片
-http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-
 #EXTINF:-1,广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
