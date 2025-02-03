@@ -17,6 +17,8 @@ http://[2408:876c:17c0:a00::88]:6610/00000002/2/iptv-cctv5-hd/1000.m3u8?version=
 
 #EXTINF:-1,CCTV5+
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_CCTV-5PLUS/1000.m3u8?version=1.0&IASHttpSessionId=RR3872020250131034135497864&programid=G_CCTV-5PLUS&zte_bandwidth=1000&bandwidth=3799555&ispcode=27&timeformat=local&channel=G_CCTV-5PLUS&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-5PLUS
+#EXTINF:-1,CCTV5+（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.82:8013
 
 #EXTINF:-1,CCTV6
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/iptv-cctv6-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3865020250131032901492916&programid=iptv-cctv6-hd&zte_bandwidth=1000&bandwidth=12412662&ispcode=27&timeformat=local&channel=iptv-cctv6-hd&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv6-hd
@@ -32,9 +34,13 @@ http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV-9-HD/1000.m3u8?version=1.
 
 #EXTINF:-1,CCTV10
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_CCTV-10-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864220250131033516498708&programid=G_CCTV-10-HD&zte_bandwidth=1000&bandwidth=3854752&ispcode=27&timeformat=local&channel=G_CCTV-10-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-10-HD
+#EXTINF:-1,CCTV10（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.196:6061
 
 #EXTINF:-1,CCTV11
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G-CCTV-11-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3870720250131033615496953&programid=G-CCTV-11-HD&zte_bandwidth=1000&bandwidth=3783462&ispcode=27&timeformat=local&channel=G-CCTV-11-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G-CCTV-11-HD
+#EXTINF:-1,CCTV11（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.93.153:6321
 
 #EXTINF:-1,CCTV12
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_CCTV-12-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3868520250131033655494928&programid=G_CCTV-12-HD&zte_bandwidth=1000&bandwidth=12371753&ispcode=27&timeformat=local&channel=G_CCTV-12-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-12-HD
@@ -44,6 +50,8 @@ http://[2408:876c:17c0:a00::87]:6610/00000002/2/CCTV-13-HD/1000.m3u8?version=1.0
 
 #EXTINF:-1,CCTV14
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_CCTV-14-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131033803497130&programid=G_CCTV-14-HD&zte_bandwidth=1000&bandwidth=3800457&ispcode=27&timeformat=local&channel=G_CCTV-14-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-14-HD
+#EXTINF:-1,CCTV14（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.198:6063
 
 #EXTINF:-1,CCTV15
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G-CCTV-15-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871720250131033910497025&programid=G-CCTV-15-HD&zte_bandwidth=1000&bandwidth=12475078&ispcode=27&timeformat=local&channel=G-CCTV-15-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G-CCTV-15-HD
@@ -53,6 +61,8 @@ http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_CCTV-16-HQ/1000.m3u8?version=1
 
 #EXTINF:-1,CCTV17
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV-17-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3872420250131034038496285&programid=G_CCTV-17-HD&zte_bandwidth=1000&bandwidth=3778048&ispcode=27&timeformat=local&channel=G_CCTV-17-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-17-HD
+#EXTINF:-1,CCTV17（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.93.150:6318
 
 #EXTINF:-1,CCTV4K
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250131035130495347&programid=G_CCTV_4K&bandwidth=23779894&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV_4K
@@ -96,39 +106,55 @@ http://[2408:876c:17c0:a00::87]:6610/00000002/2/DFWS-HD/1000.m3u8?version=1.0&IA
 
 #EXTINF:-1,北京卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/BTV-1/1000.m3u8?version=1.0&IASHttpSessionId=RR3860120250131042601497914&programid=BTV-1&bandwidth=3816249&ispcode=27&timeformat=local&channel=BTV-1&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=BTV-1
+#EXTINF:-1,北京卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.87:8014
 
 #EXTINF:-1,天津卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_TIANJIN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131042643498760&programid=G_TIANJIN-HD&zte_bandwidth=1000&bandwidth=12472371&ispcode=27&timeformat=local&channel=G_TIANJIN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_TIANJIN-HD
 
 #EXTINF:-1,安徽卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_ANHUI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860820250131042718500681&programid=G_ANHUI-HD&bandwidth=3765564&ispcode=27&timeformat=local&channel=G_ANHUI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ANHUI-HD
+#EXTINF:-1,安徽卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.209:6566
 
 #EXTINF:-1,深圳卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/SZWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131042758498949&programid=SZWS-HD&bandwidth=12414316&ispcode=27&timeformat=local&channel=SZWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=SZWS-HD
 
 #EXTINF:-1,重庆卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_CHONGQING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878220250131042837498192&programid=G_CHONGQING-HD&bandwidth=3822566&ispcode=27&timeformat=local&channel=G_CHONGQING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CHONGQING-HD
+#EXTINF:-1,重庆卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.10:6053
 
 #EXTINF:-1,山东卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_SHANDONG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3874120250131042934498238&programid=G_SHANDONG-HD&bandwidth=12520048&ispcode=27&timeformat=local&channel=G_SHANDONG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANDONG-HD
 
 #EXTINF:-1,辽宁卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_LIAONING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867020250131043010496949&programid=G_LIAONING-HD&bandwidth=3793689&ispcode=27&timeformat=local&channel=G_LIAONING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_LIAONING-HD
+#EXTINF:-1,辽宁卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.115:6056
 
 #EXTINF:-1,湖北卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HUBEI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865620250131043054493938&programid=G_HUBEI-HD&zte_bandwidth=1000&bandwidth=3748419&ispcode=27&timeformat=local&channel=G_HUBEI-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_HUBEI-HD
+#EXTINF:-1,湖北卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.210:6567
 
 #EXTINF:-1,四川卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_SICHUAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250131043133501324&programid=G_SICHUAN-HD&zte_bandwidth=1000&bandwidth=3747216&ispcode=27&timeformat=local&channel=G_SICHUAN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_SICHUAN-HD
+#EXTINF:-1,四川卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.16:6043
 
 #EXTINF:-1,黑龙江卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HEILONGJIANG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861320250131043213499093&programid=G_HEILONGJIANG-HD&bandwidth=12389952&ispcode=27&timeformat=local&channel=G_HEILONGJIANG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEILONGJIANG-HD
 
 #EXTINF:-1,江西卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_JIANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250131043255501376&programid=G_JIANGXI-HD&zte_bandwidth=1000&bandwidth=3799856&ispcode=27&timeformat=local&channel=G_JIANGXI-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGXI-HD
+#EXTINF:-1,江西卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.19:6145
 
 #EXTINF:-1,东南卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_DONGNAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3879520250131043330498690&programid=G_DONGNAN-HD&bandwidth=3757593&ispcode=27&timeformat=local&channel=G_DONGNAN-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DONGNAN-HD
+#EXTINF:-1,东南卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.201:6146
 
 #EXTINF:-1,贵州卫视
 http://[2408:876c:17c0:a00::87]:6610/00000002/2/G_GUIZHOU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865320250131043411497036&programid=G_GUIZHOU-HD&bandwidth=12372204&ispcode=27&timeformat=local&channel=G_GUIZHOU-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUIZHOU-HD
@@ -138,21 +164,29 @@ http://[2408:876c:17c0:a00::87]:6610/00000002/2/GDWS-HD/1000.m3u8?version=1.0&IA
 
 #EXTINF:-1,河南卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_HENAN_HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131043524499187&programid=G_HENAN_HD&bandwidth=3813091&ispcode=27&timeformat=local&channel=G_HENAN_HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HENAN_HD
+#EXTINF:-1,河南卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.137:6144
 
 #EXTINF:-1,吉林卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_JILIN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3881620250131043558498165&programid=G_JILIN-HQ&bandwidth=3808729&ispcode=27&timeformat=local&channel=G_JILIN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_JILIN-HQ
+#EXTINF:-1,吉林卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.202:6147
 
 #EXTINF:-1,河北卫视
 http://[2408:876c:17c0:a00::91]:6610/00000002/2/G_HEBEI-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3864420250131043657499648&programid=G_HEBEI-HQ&bandwidth=12344230&ispcode=27&timeformat=local&channel=G_HEBEI-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEBEI-HQ
 
 #EXTINF:-1,广西卫视
 http://[2408:876c:17c0:a00::88]:6610/00000002/2/G_GUANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250131043738496999&programid=G_GUANGXI-HD&bandwidth=3776995&ispcode=27&timeformat=local&channel=G_GUANGXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUANGXI-HD
+#EXTINF:-1,广西卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.92.76:8043
 
 #EXTINF:-1,陕西卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_SHANXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250131043806498144&programid=G_SHANXI-HD&bandwidth=12327235&ispcode=27&timeformat=local&channel=G_SHANXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANXI-HD
 
 #EXTINF:-1,海南卫视
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HAINAN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131043838499170&programid=G_HAINAN-HQ&bandwidth=3811436&ispcode=27&timeformat=local&channel=G_HAINAN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HAINAN-HQ
+#EXTINF:-1,海南卫视（高码率备用）河北联通
+http://101.31.59.157:4022/rtp/239.253.93.155:6323
 
 #EXTINF:-1,金鹰纪实
 http://[2408:876c:17c0:a00::90]:6610/00000002/2/G_HAINAN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131043838499170&programid=G_HAINAN-HQ&bandwidth=3811436&ispcode=27&timeformat=local&channel=G_HAINAN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HAINAN-HQ
@@ -247,8 +281,8 @@ http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 #EXTINF:-1,广东珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 
-#EXTINF:-1,
-
+#EXTINF:-1,广东体育
+http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 #EXTINF:-1,
 
