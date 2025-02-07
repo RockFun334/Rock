@@ -250,6 +250,21 @@ http://cdn2.163189.xyz/live/gdzj/stream.m3u8
 #EXTINF:-1,广东体育
 http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
+#EXTINF:-1,金鹰纪实
+http://219.140.228.121:4022/rtp/239.69.1.109:10292
+
+#EXTINF:-1,CHC动作电影
+http://219.140.228.121:4022/rtp/239.69.1.242:11094
+
+#EXTINF:-1,CHC影迷电影
+http://219.140.228.121:4022/rtp/239.69.1.241:11088
+
+#EXTINF:-1,卡酷少儿
+http://219.140.228.121:4022/rtp/239.69.1.193:10800
+
+#EXTINF:-1,澳亚卫视
+http://119.32.12.17:2901/udp/224.1.100.12:11111
+
 #EXTINF:-1,
 
 
@@ -263,12 +278,6 @@ http://cdn2.163189.xyz/live/gdty/stream.m3u8
 
 
 #EXTINF:-1,
-
-
-
-
-
-
 
 
 
