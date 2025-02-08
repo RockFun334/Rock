@@ -54,9 +54,6 @@ http://14.205.92.90:6610/00000002/2/G_CCTV-16-HQ/1000.m3u8?version=1.0&IASHttpSe
 #EXTINF:-1,CCTV17
 http://14.205.92.90:6610/00000002/2/G_CCTV-17-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867920250208111412849848&programid=G_CCTV-17-HD&zte_bandwidth=1000&bandwidth=3787673&ispcode=27&timeformat=local&channel=G_CCTV-17-HD&userid=9087700022313&AuthInfo=123&m3u8_level=2&stbid=5F000453001352000000185E0BD98EA7&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-17-HD
 
-#EXTINF:-1,CCTV16K
-http://14.205.92.90:6610/00000002/2/G_CCTV-16-4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250208111515844996&programid=G_CCTV-16-4K&bandwidth=12678419&ispcode=27&timeformat=local&channel=G_CCTV-16-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700022313&AuthInfo=123&m3u8_level=2&stbid=5F000453001352000000185E0BD98EA7&zte_bandwidth=1000&ztecid=G_CCTV-16-4K
-
 #EXTINF:-1,CCTV4K
 http://14.205.92.88:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3876320250208111832845257&programid=G_CCTV_4K&bandwidth=23883068&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700022313&AuthInfo=123&m3u8_level=2&stbid=5F000453001352000000185E0BD98EA7&zte_bandwidth=1000&ztecid=G_CCTV_4K
 
