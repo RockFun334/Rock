@@ -261,13 +261,13 @@ http://171.110.62.200:8181/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=
 #EXTINF:-1,金鹰卡通
 http://171.110.62.200:8181/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,高清测试-1(ZX)
+#EXTINF:-1,高清测试-1(凤凰)
 http://171.110.62.200:8181/tsfile/live/1069_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,高清测试-2(ZW）
+#EXTINF:-1,高清测试-2(凤凰）
 http://171.110.62.200:8181/tsfile/live/1070_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,高清测试-3(XG)
+#EXTINF:-1,高清测试-3(香港台)
 http://171.110.62.200:8181/tsfile/live/1071_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1,玉林综合
@@ -275,12 +275,6 @@ http://171.110.62.200:8181/tsfile/live/1218_1.m3u8?key=txiptv&playlive=1&authid=
 
 #EXTINF:-1,玉林公共
 http://171.110.62.200:8181/tsfile/live/1219_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,测试频道-4(东森电影)
-http://171.110.62.200:8181/tsfile/live/1075_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,测试频道-3(龙祥电影)
-http://171.110.62.200:8181/tsfile/live/1077_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1,精彩影视
 http://182.32.159.18:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
