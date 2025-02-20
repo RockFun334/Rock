@@ -277,14 +277,6 @@ http://171.124.137.104:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 
-#EXTINF:-1,北京影视
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1740027271&sign=5bfbfc31f4ecebd9be45d2d92eb973cb
-
-#EXTINF:-1,北京文艺
-https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1740027247&sign=5e6b62d758a4aae94192d01a704ee594
-
-#EXTINF:-1,华数4K
-http://113.15.205.15:50001/2000000004000000014/hnbblive/index.m3u8
 
 #EXTINF:-1,求索动物
 http://113.15.205.15:50001/2000000004000000009/hnbblive/index.m3u8
@@ -353,12 +345,6 @@ http://113.223.214.129:54321/gaoma/cctv4k16_10m.m3u8
 
 #EXTINF:-1,CCTV17
 http://113.223.214.129:54321/gaoma/cctv17.m3u8
-
-#EXTINF:-1,CCTV4K
-http://113.223.214.129:54321/gaoma/cctv4k_10m.m3u8
-
-#EXTINF:-1,北京纪实科教8K
-https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8
 
 #EXTINF:-1,北京纪实科教
 http://113.223.214.129:54321/itv/1000000001000001910.m3u8?cdn=ystenlive
