@@ -257,8 +257,8 @@ http://113.195.44.68:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
 #EXTINF:-1,CHC影迷电影
 http://113.195.44.68:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1,
-
+#EXTINF:-1,影视 旅游
+http://dl.wifi942.com:66/dl/jdphp1/jddltest.php?id=220
 
 #EXTINF:-1,
 
