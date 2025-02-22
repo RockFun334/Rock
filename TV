@@ -237,206 +237,51 @@ http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId
 
 
 #EXTINF:-1,重温经典
-http://cdn3.132.us.kg/live/cwjd/stream.m3u8
-
-#EXTINF:-1,重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1,CHC影迷电影
-http://110.72.82.54:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,华数点播1
+http://223.13.1.108:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,华数点播2
+http://223.13.1.108:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,华数点播3
+http://223.13.1.108:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,CHC家庭影院
+http://113.195.44.68:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1,CHC动作电影
-http://110.72.82.54:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.195.44.68:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1,CHC高清电影
-http://110.72.82.54:85/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,CHC影迷电影
+http://113.195.44.68:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
 
-#EXTINF:-1,广西综艺旅游
-http://110.72.82.54:85/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,
 
-#EXTINF:-1,精彩影视
-http://182.32.159.18:85/tsfile/live/1026_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,临沂综合
-http://112.6.165.112:85/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,
 
-#EXTINF:-1,沂水生活
-http://112.6.165.112:85/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,兰陵综合
-http://112.6.165.112:85/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,
 
-#EXTINF:-1,蒙阴综合
-http://112.6.165.112:85/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,山西影视
-http://171.124.137.104:85/tsfile/live/1012_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1,
 
-#EXTINF:-1,黄河频道
-http://171.124.137.104:85/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1,
 
 
+#EXTINF:-1,
 
-#EXTINF:-1,求索动物
-http://113.15.205.15:50001/2000000004000000009/hnbblive/index.m3u8
 
-#EXTINF:-1,求索纪录
-http://113.15.205.15:50001/2000000004000000010/hnbblive/index.m3u8
+#EXTINF:-1,
 
-#EXTINF:-1,求索科学
-http://113.15.205.15:50001/2000000004000000011/hnbblive/index.m3u8
 
-#EXTINF:-1,求索生活
-http://113.223.214.129:54321/itv/6000000002000003382.m3u8?cdn=wasusyt
+#EXTINF:-1,
 
 
+#EXTINF:-1,
 
-#EXTINF:-1,CCTV1
-http://113.223.214.129:54321/gaoma/cctv1.m3u8
 
-#EXTINF:-1,CCTV2
-http://113.223.214.129:54321/gaoma/cctv2.m3u8
-
-#EXTINF:-1,CCTV3
-http://113.223.214.129:54321/gaoma/cctv3.m3u8
-
-#EXTINF:-1,CCTV4
-http://113.223.214.129:54321/gaoma/cctv4.m3u8
-
-#EXTINF:-1,CCTV5
-http://113.223.214.129:54321/gaoma/cctv5.m3u8
-
-#EXTINF:-1,CCTV5+
-http://113.223.214.129:54321/gaoma/cctv5p.m3u8
-
-#EXTINF:-1,CCTV6
-http://113.223.214.129:54321/itv/1000000001000001737.m3u8?cdn=ystenlive
-
-#EXTINF:-1,CCTV7
-http://113.223.214.129:54321/gaoma/cctv7.m3u8
-
-#EXTINF:-1,CCTV8
-http://113.223.214.129:54321/gaoma/cctv8.m3u8
-
-#EXTINF:-1,CCTV9
-http://113.223.214.129:54321/gaoma/cctv9.m3u8
-
-#EXTINF:-1,CCTV10
-http://113.223.214.129:54321/gaoma/cctv10.m3u8
-
-#EXTINF:-1,CCTV11
-http://113.223.214.129:54321/gaoma/cctv11.m3u8
-
-#EXTINF:-1,CCTV12
-http://113.223.214.129:54321/gaoma/cctv12.m3u8
-
-#EXTINF:-1,CCTV13
-http://113.223.214.129:54321/gaoma/cctv13.m3u8
-
-#EXTINF:-1,CCTV14
-http://113.223.214.129:54321/gaoma/cctv14.m3u8
-
-#EXTINF:-1,CCTV15
-http://113.223.214.129:54321/gaoma/cctv15.m3u8
-
-#EXTINF:-1,CCTV16
-http://113.223.214.129:54321/gaoma/cctv4k16_10m.m3u8
-
-#EXTINF:-1,CCTV17
-http://113.223.214.129:54321/gaoma/cctv17.m3u8
-
-#EXTINF:-1,北京纪实科教
-http://113.223.214.129:54321/itv/1000000001000001910.m3u8?cdn=ystenlive
-
-#EXTINF:-1,BTV-重温经典
-http://113.223.214.129:54321/bptv/10000100000000050000000003887494.m3u8
-
-#EXTINF:-1,北京体育休闲
-http://113.223.214.129:54321/bptv/10000100000000050000000003870779.m3u8
-
-#EXTINF:-1,北京卫视
-http://113.223.214.129:54321/itv/6000000001000020451.m3u8?cdn=wasusyt
-
-#EXTINF:-1,安徽卫视
-http://113.223.214.129:54321/itv/1000000001000030159.m3u8?cdn=ystenlive
-
-#EXTINF:-1,东南卫视
-http://113.223.214.129:54321/itv/5000000004000010584.m3u8?cdn=bestzb
-
-#EXTINF:-1,甘肃卫视
-http://113.223.214.129:54321/itv/5000000011000031121.m3u8?cdn=bestzb
-
-#EXTINF:-1,广东卫视
-http://113.223.214.129:54321/itv/1000000001000014176.m3u8?cdn=ystenlive
-
-#EXTINF:-1,广西卫视
-http://113.223.214.129:54321/itv/5000000011000031118.m3u8?cdn=bestzb
-
-#EXTINF:-1,贵州卫视
-http://113.223.214.129:54321/itv/5000000004000025843.m3u8?cdn=bestzb
-
-#EXTINF:-1,海南卫视
-http://113.223.214.129:54321/itv/5000000004000006211.m3u8?cdn=bestzb
-
-#EXTINF:-1,河北卫视
-http://113.223.214.129:54321/itv/5000000006000040016.m3u8?cdn=bestzb
-
-#EXTINF:-1,河南卫视
-http://113.223.214.129:54321/itv/5000000011000031119.m3u8?cdn=bestzb
-
-#EXTINF:-1,黑龙江卫视
-http://113.223.214.129:54321/itv/1000000001000001925.m3u8?cdn=ystenlive
-
-#EXTINF:-1,湖北卫视
-http://113.223.214.129:54321/itv/1000000001000024621.m3u8?cdn=ystenlive
-
-#EXTINF:-1,湖南卫视
-http://113.223.214.129:54321/itv/5000000004000006692.m3u8?cdn=bestzb
-
-#EXTINF:-1,金鹰纪实
-http://113.223.214.129:54321/itv/5000000011000031203.m3u8?cdn=bestzb
-
-#EXTINF:-1,吉林卫视
-http://113.223.214.129:54321/itv/5000000011000031117.m3u8?cdn=bestzb
-
-#EXTINF:-1,江苏卫视
-http://113.223.214.129:54321/itv/1000000001000001828.m3u8?cdn=ystenlive
-
-#EXTINF:-1,江西卫视
-http://113.223.214.129:54321/itv/1000000006000268001.m3u8?cdn=ystenlive
-
-#EXTINF:-1,辽宁卫视
-http://113.223.214.129:54321/itv/5000000004000011671.m3u8?cdn=bestzb
-
-#EXTINF:-1,青海卫视
-http://113.223.214.129:54321/itv/1000000002000013359.m3u8?cdn=ystenlive
-
-#EXTINF:-1,山东卫视
-http://113.223.214.129:54321/itv/1000000001000016568.m3u8?cdn=ystenlive
-
-#EXTINF:-1,东方卫视
-http://113.223.214.129:54321/itv/6000000001000003639.m3u8?cdn=wasusyt
-
-#EXTINF:-1,深圳卫视
-http://113.223.214.129:54321/itv/5000000004000007410.m3u8?cdn=bestzb
-
-#EXTINF:-1,四川卫视
-http://113.223.214.129:54321/itv/5000000004000006119.m3u8?cdn=bestzb
-
-#EXTINF:-1,天津卫视
-http://113.223.214.129:54321/itv/5000000004000006827.m3u8?cdn=bestzb
-
-#EXTINF:-1,云南卫视
-http://113.223.214.129:54321/itv/5000000011000031120.m3u8?cdn=bestzb
-
-#EXTINF:-1,浙江卫视
-http://113.223.214.129:54321/itv/1000000001000014260.m3u8?cdn=ystenlive
-
-#EXTINF:-1,重庆卫视
-http://113.223.214.129:54321/itv/1000000001000001096.m3u8?cdn=ystenlive
-
-#EXTINF:-1,华数-4K
-http://113.223.214.129:54321/itv/6000000003000004748.m3u8?cdn=wasusyt
-
-
+#EXTINF:-1,
