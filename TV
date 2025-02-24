@@ -239,15 +239,6 @@ http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId
 #EXTINF:-1,重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 
-#EXTINF:-1,华数点播1
-http://223.13.1.108:85/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,华数点播2
-http://223.13.1.108:85/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,华数点播3
-http://223.13.1.108:85/tsfile/live/1046_1.m3u8?key=txiptv&playlive=1&authid=0
-
 #EXTINF:-1,CHC家庭影院
 http://113.195.44.68:9901/tsfile/live/1046_1.m3u8?key=txiptv&playlive=0&authid=0
 
@@ -256,9 +247,6 @@ http://113.195.44.68:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive=0&authid=0
 
 #EXTINF:-1,CHC影迷电影
 http://113.195.44.68:9901/tsfile/live/1039_1.m3u8?key=txiptv&playlive=0&authid=0
-
-#EXTINF:-1,影视 旅游
-http://dl.wifi942.com:66/dl/jdphp1/jddltest.php?id=220
 
 #EXTINF:-1,
 
