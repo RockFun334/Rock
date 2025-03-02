@@ -237,17 +237,17 @@ http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId
 
 
 
-#EXTINF:-1,
+#EXTINF:-1,重温经典
+http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
 
+#EXTINF:-1,CHC动作电影
+http://1.199.98.195:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,
+#EXTINF:-1,CHC家庭影院
+http://1.199.98.195:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
+#EXTINF:-1,CHC影迷电影
+http://1.199.98.195:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1,
 
