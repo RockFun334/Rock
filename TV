@@ -1,4 +1,4 @@
-#EXTM3U 
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #EXTINF:-1,CCTV1
 http://14.205.92.88:6610/00000002/2/CCTV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3876920250209055819870133&programid=CCTV-1-HD&zte_bandwidth=1000&bandwidth=12464700&ispcode=27&timeformat=local&channel=CCTV-1-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=CCTV-1-HD
