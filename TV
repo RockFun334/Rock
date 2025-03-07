@@ -341,22 +341,22 @@ http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId
 
 
 #EXTINF:-1 tvg-id="130" tvg-name="重温经典" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字付费",重温经典
-http://183.215.134.239:19901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+http://183.215.134.239:19901/tsfile/live/1002_1.m3u8
 
 #EXTINF:-1 tvg-id="131" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="数字频道",CHC动作电影
-http://1.199.98.195:9901/tsfile/live/1044_1.m3u8?key=txiptv&playlive=1&authid=0
+http://58.19.38.162:9901/tsfile/live/1005_1.m3u8
 
 #EXTINF:-1 tvg-id="132" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC2.png" group-title="数字频道",CHC家庭影院
-http://1.199.98.195:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+http://58.19.38.162:9901/tsfile/live/1006_1.m3u8
 
 #EXTINF:-1 tvg-id="133" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC4.png" group-title="数字频道",CHC影迷电影
-http://1.199.98.195:9901/tsfile/live/1042_1.m3u8?key=txiptv&playlive=1&authid=0
+http://58.19.38.162:9901/tsfile/live/1004_1.m3u8
 
 #EXTINF:-1 tvg-id="134" tvg-name="中国天气" tvg-logo="https://live.fanmingming.cn/tv/中国天气.png" group-title="数字频道",中国天气
 http://192.168.2.20:50001/TVOD/5000000005000031974/bestzb/index.m3u8$3.5M576_百视通
 
 #EXTINF:-1 tvg-id="135" tvg-name="华数4K" tvg-logo="https://logo.doube.eu.org/华数4K.png" group-title="数字频道",华数4K
-http://192.168.2.20:50001/TVOD/6000000003000004748/wasusyt/index.m3u8?OtherName=16M2160_华数
+http://192.168.2.20:50001/TVOD/2000000004000000014/hnbblive/index.m3u8?OtherName=15M2160_湖南bblive
 
 #EXTINF:-1 tvg-id="136" tvg-name="上海东方影视" tvg-logo="https://logo.doube.eu.org/上海东方影视.png" group-title="数字频道",上海东方影视
 http://192.168.2.20:50001/TVOD/5000000010000032212/bestzb/index.m3u8?OtherName=4M1080_百视通
