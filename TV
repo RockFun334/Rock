@@ -322,7 +322,7 @@ http://192.168.2.20:50001/TVOD/5000000011000031114/bestzb/index.m3u8?OtherName=7
 #EXTINF:-1 tvg-id="124" tvg-name="游戏风云" tvg-logo="https://logo.doube.eu.org/游戏风云.png" group-title="数字付费",SiTV游戏风云
 http://14.205.92.91:6610/00000002/2/G_YXFY/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131050353499933&programid=G_YXFY&bandwidth=3763609&ispcode=27&timeformat=local&channel=G_YXFY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YXFY
 
-#EXTINF:-1 tvg-id="125" tvg-name="休闲足球" tvg-logo="https://logo.doube.eu.org/休闲足球.png" group-title="数字付费",SiTV休闲足球
+#EXTINF:-1 tvg-id="125" tvg-name="魅力足球" tvg-logo="https://logo.doube.eu.org/魅力足球.png" group-title="数字付费",SiTV魅力足球
 http://14.205.92.91:6610/00000002/2/G_MEILIZUQIU/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250131050607498349&programid=G_MEILIZUQIU&bandwidth=12462745&ispcode=27&timeformat=local&channel=G_MEILIZUQIU&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_MEILIZUQIU
 
 #EXTINF:-1 tvg-id="126" tvg-name="都市剧场" tvg-logo="https://logo.doube.eu.org/都市剧场.png" group-title="数字付费",SiTV都市剧场
@@ -341,7 +341,7 @@ http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId
 
 
 #EXTINF:-1 tvg-id="130" tvg-name="重温经典" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="数字付费",重温经典
-http://183.215.134.239:19901/tsfile/live/1002_1.m3u8
+https://tv.bfsu.edu.cn/hls/cwjdhd.m3u8
 
 #EXTINF:-1 tvg-id="131" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/shuzi/CHC3.png" group-title="数字频道",CHC动作电影
 http://58.19.38.162:9901/tsfile/live/1005_1.m3u8
