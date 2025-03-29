@@ -1,270 +1,175 @@
-#EXTM3U 
-
-#EXTINF:-1,CCTV1
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1
 http://14.205.92.88:6610/00000002/2/CCTV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3876920250209055819870133&programid=CCTV-1-HD&zte_bandwidth=1000&bandwidth=12464700&ispcode=27&timeformat=local&channel=CCTV-1-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=CCTV-1-HD
-
-#EXTINF:-1,CCTV2
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2
 http://14.205.92.87:6610/00000002/2/G_CCTV-2-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3872420250209053535873382&programid=G_CCTV-2-HD&zte_bandwidth=1000&bandwidth=12397321&ispcode=27&timeformat=local&channel=G_CCTV-2-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-2-HD
-
-#EXTINF:-1,CCTV3
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="央视",CCTV3
 http://14.205.92.88:6610/00000002/2/iptv-cctv3-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3861620250209054259874331&programid=iptv-cctv3-hd&zte_bandwidth=1000&bandwidth=12349193&ispcode=27&timeformat=local&channel=iptv-cctv3-hd&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv3-hd
-
-#EXTINF:-1,CCTV4
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="央视",CCTV4
 http://14.205.92.91:6610/00000002/2/G_CCTV-4-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860620250209054354876910&programid=G_CCTV-4-HD&zte_bandwidth=1000&bandwidth=12363030&ispcode=27&timeformat=local&channel=G_CCTV-4-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-4-HD
-
-#EXTINF:-1,CCTV5
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="央视",CCTV5
 http://14.205.92.90:6610/00000002/2/iptv-cctv5-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3859820250209054525876976&programid=iptv-cctv5-hd&zte_bandwidth=1000&bandwidth=12503654&ispcode=27&timeformat=local&channel=iptv-cctv5-hd&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv5-hd
-
-#EXTINF:-1,CCTV5+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央视",CCTV5+
 http://14.205.92.90:6610/00000002/2/G_CCTV-5PLUS/1000.m3u8?version=1.0&IASHttpSessionId=RR3867020250209055558872952&programid=G_CCTV-5PLUS&zte_bandwidth=1000&bandwidth=3782860&ispcode=27&timeformat=local&channel=G_CCTV-5PLUS&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-5PLUS
-
-#EXTINF:-1,CCTV6
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央视",CCTV6
 http://14.205.92.91:6610/00000002/2/iptv-cctv6-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3864720250209054606873987&programid=iptv-cctv6-hd&zte_bandwidth=1000&bandwidth=12401984&ispcode=27&timeformat=local&channel=iptv-cctv6-hd&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv6-hd
-
-#EXTINF:-1,CCTV7
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央视",CCTV7
 http://14.205.92.87:6610/00000002/2/G_CCTV-7-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3869120250209054702875187&programid=G_CCTV-7-HD&zte_bandwidth=1000&bandwidth=12431011&ispcode=27&timeformat=local&channel=G_CCTV-7-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-7-HD
-
-#EXTINF:-1,CCTV8
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央视",CCTV8
 http://14.205.92.91:6610/00000002/2/iptv-cctv8-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250209054741873236&programid=iptv-cctv8-hd&zte_bandwidth=1000&bandwidth=12387094&ispcode=27&timeformat=local&channel=iptv-cctv8-hd&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv8-hd
-
-#EXTINF:-1,CCTV9
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="央视",CCTV9
 http://14.205.92.88:6610/00000002/2/G_CCTV-9-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865320250209054817873358&programid=G_CCTV-9-HD&zte_bandwidth=1000&bandwidth=12348592&ispcode=27&timeformat=local&channel=G_CCTV-9-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-9-HD
-
-#EXTINF:-1,CCTV10
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="央视",CCTV10
 http://14.205.92.91:6610/00000002/2/G_CCTV-10-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3866420250209054850875788&programid=G_CCTV-10-HD&zte_bandwidth=1000&bandwidth=3815798&ispcode=27&timeformat=local&channel=G_CCTV-10-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-10-HD
-
-#EXTINF:-1,CCTV11
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="央视",CCTV11
 http://14.205.92.91:6610/00000002/2/G-CCTV-11-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250209054917873940&programid=G-CCTV-11-HD&zte_bandwidth=1000&bandwidth=3774889&ispcode=27&timeformat=local&channel=G-CCTV-11-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G-CCTV-11-HD
-
-#EXTINF:-1,CCTV12
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV12
 http://14.205.92.91:6610/00000002/2/G_CCTV-12-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865620250209055429870550&programid=G_CCTV-12-HD&zte_bandwidth=1000&bandwidth=12432515&ispcode=27&timeformat=local&channel=G_CCTV-12-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-12-HD
-
-#EXTINF:-1,CCTV13
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV13
 http://14.205.92.91:6610/00000002/2/CCTV-13-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864220250131033726498774&programid=CCTV-13-HD&zte_bandwidth=1000&bandwidth=12488614&ispcode=27&timeformat=local&channel=CCTV-13-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=CCTV-13-HD
-
-#EXTINF:-1,CCTV14
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV14
 http://14.205.92.91:6610/00000002/2/G_CCTV-14-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131033803497130&programid=G_CCTV-14-HD&zte_bandwidth=1000&bandwidth=3800457&ispcode=27&timeformat=local&channel=G_CCTV-14-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-14-HD
-
-#EXTINF:-1,CCTV15
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15
 http://14.205.92.91:6610/00000002/2/G-CCTV-15-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871720250131033910497025&programid=G-CCTV-15-HD&zte_bandwidth=1000&bandwidth=12475078&ispcode=27&timeformat=local&channel=G-CCTV-15-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G-CCTV-15-HD
-
-#EXTINF:-1,CCTV16
-http://14.205.92.91:6610/00000002/2/G_CCTV-16-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3881320250131033955497523&programid=G_CCTV-16-HQ&bandwidth=12360624&ispcode=27&timeformat=local&channel=G_CCTV-16-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV-16-HQ
-
-#EXTINF:-1,CCTV17
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16
+http://14.205.92.90:6610/00000002/2/G_CCTV-16-4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3862420250329041459781618&programid=G_CCTV-16-4K&bandwidth=12523657&ispcode=27&timeformat=local&channel=G_CCTV-16-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7PLQNjybvDeS%2FJ1FnFgK3Bu6%2FxRT6oAyxEMlY5X9aYusTBxhOB%2B8s1W8t0tOzIAuAA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV-16-4K
+#EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17
 http://14.205.92.91:6610/00000002/2/G_CCTV-17-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3872420250131034038496285&programid=G_CCTV-17-HD&zte_bandwidth=1000&bandwidth=3778048&ispcode=27&timeformat=local&channel=G_CCTV-17-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-17-HD
-
-#EXTINF:-1,CCTV4K
-http://14.205.92.88:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3866420250209055914876170&programid=G_CCTV_4K&bandwidth=23674915&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV_4K
-
-#EXTINF:-1,教育综合
-http://14.205.92.88:6610/00000002/2/G_CETV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250131034608495433&programid=G_CETV-1-HD&bandwidth=12348742&ispcode=27&timeformat=local&channel=G_CETV-1-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CETV-1-HD
-
-#EXTINF:-1,CGTN记录
-http://14.205.92.88:6610/00000002/2/G_CGTVJL-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131034816497541&programid=G_CGTVJL-HD&bandwidth=12297907&ispcode=27&timeformat=local&channel=G_CGTVJL-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CGTVJL-HD
-
-#EXTINF:-1,云南卫视
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV4K
+http://14.205.92.88:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3878520250329033742784907&programid=G_CCTV_4K&bandwidth=23880812&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7NNwc2f%2FBmZf0Cpkc5iUPtqRt5GMhkEdSVhNtyfVmdsilaTbOcaU%2B3BD2w0Dak2TDw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV_4K
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视4K
+http://14.205.92.91:6610/00000002/2/G_BJWS-4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3864820250329041324777813&programid=G_BJWS-4K&bandwidth=25305176&ispcode=27&timeformat=local&channel=G_BJWS-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KNmojkk59lCuDtYBghmIvgIY2c8a8J%2B4xM7ZPCWALOUvnD%2B5YWJfax%2BihWDWd8dZg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BJWS-4K
+#EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="地方",CETV-1
+http://14.205.92.90:6610/00000002/2/G_CETV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867920250329041600784828&programid=G_CETV-1-HD&bandwidth=12421686&ispcode=27&timeformat=local&channel=G_CETV-1-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7DRvvOXfmLX%2F5C4D2WlxPBsSbj1bWnh66kTJ%2FeC5QP%2BPDZce4obKl1EDM2uiuyQ%2Ffg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CETV-1-HD
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="央视",CGTN
+http://14.205.92.88:6610/00000002/2/G_CGTN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250329033356782520&programid=G_CGTN-HD&bandwidth=3818806&ispcode=27&timeformat=local&channel=G_CGTN-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KleeJrM6G4ASJZ43Ccg%2Fr%2Ffjdmy0ctmEUfnea%2F6meM5sb946lF04282h0jhISH9cA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CGTN-HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CGTVJL
+http://14.205.92.87:6610/00000002/2/G_CGTVJL-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873820250329033435785763&programid=G_CGTVJL-HD&bandwidth=12372204&ispcode=27&timeformat=local&channel=G_CGTVJL-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7A06vYljVmXT5a%2Bl3epDSEk%2F3bGSD9e9wd1jqRiww4oSwoxNP6JzoKCbxvOMh9HEUw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CGTVJL-HD
+#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV-4
+http://14.205.92.90:6610/00000002/2/G_CETV-4-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864720250329033545780812&programid=G_CETV-4-HD&bandwidth=3780304&ispcode=27&timeformat=local&channel=G_CETV-4-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Gh7m%2BqOmjiTU44MtDY2q4NlyhPIT2YwZ7ZBXLjggMAIGfUFgM1xObPEV%2FQTJV0rgA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CETV-4-HD
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
 http://14.205.92.88:6610/00000002/2/G_YUNNAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860120250131035544496862&programid=G_YUNNAN-HD&zte_bandwidth=1000&bandwidth=12715718&ispcode=27&timeformat=local&channel=G_YUNNAN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YUNNAN-HD
-
-#EXTINF:-1,云南都市
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云南都市
 http://14.205.92.88:6610/00000002/2/G_YNTV-2-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3879520250131035722497464&programid=G_YNTV-2-HD&zte_bandwidth=1000&bandwidth=12580208&ispcode=27&timeformat=local&channel=G_YNTV-2-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-2-HD
-
-#EXTINF:-1,云南娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云南娱乐
 http://14.205.92.88:6610/00000002/2/G_YNTV-3-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3872420250131035800496852&programid=G_YNTV-3-HD&zte_bandwidth=1000&bandwidth=12336710&ispcode=27&timeformat=local&channel=G_YNTV-3-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-3-HD
-
-#EXTINF:-1,云南影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云南影视
 http://14.205.92.88:6610/00000002/2/G_YNTV-5-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861520250131035838494913&programid=G_YNTV-5-HD&zte_bandwidth=1000&bandwidth=12355510&ispcode=27&timeformat=local&channel=G_YNTV-5-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-5-HD
-
-#EXTINF:-1,云南康旅
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云南康旅
 http://14.205.92.88:6610/00000002/2/G_YNTV-6-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860920250131035933495916&programid=G_YNTV-6-HD&zte_bandwidth=1000&bandwidth=12460790&ispcode=27&timeformat=local&channel=G_YNTV-6-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-6-HD
-
-#EXTINF:-1,云南少儿
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",云南少儿
 http://14.205.92.88:6610/00000002/2/G_YNTVSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878220250131040015497273&programid=G_YNTVSE-HD&zte_bandwidth=1000&bandwidth=12440486&ispcode=27&timeformat=local&channel=G_YNTVSE-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTVSE-HD+
-
-#EXTINF:-1,浙江卫视
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 http://14.205.92.88:6610/00000002/2/ZJWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250131041139499015&programid=ZJWS-HD&zte_bandwidth=1000&bandwidth=12304524&ispcode=27&timeformat=local&channel=ZJWS-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=ZJWS-HD
-
-#EXTINF:-1,江苏卫视
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="卫视",江苏卫视
 http://14.205.92.88:6610/00000002/2/G_JIANGSU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867020250131042315496703&programid=G_JIANGSU-HD&zte_bandwidth=1000&bandwidth=12412361&ispcode=27&timeformat=local&channel=G_JIANGSU-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGSU-HD
-
-#EXTINF:-1,湖南卫视
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视
 http://14.205.92.88:6610/00000002/2/HNWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3881320250131042407498973&programid=HNWS-HD&zte_bandwidth=1000&bandwidth=12372656&ispcode=27&timeformat=local&channel=HNWS-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=HNWS-HD
-
-#EXTINF:-1,东方卫视
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 http://14.205.92.88:6610/00000002/2/DFWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880720250131042506496623&programid=DFWS-HD&zte_bandwidth=1000&bandwidth=12387545&ispcode=27&timeformat=local&channel=DFWS-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=DFWS-HD
-
-#EXTINF:-1,北京卫视
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 http://14.205.92.88:6610/00000002/2/BTV-1/1000.m3u8?version=1.0&IASHttpSessionId=RR3860120250131042601497914&programid=BTV-1&bandwidth=3816249&ispcode=27&timeformat=local&channel=BTV-1&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=BTV-1
-
-#EXTINF:-1,天津卫视
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 http://14.205.92.88:6610/00000002/2/G_TIANJIN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131042643498760&programid=G_TIANJIN-HD&zte_bandwidth=1000&bandwidth=12472371&ispcode=27&timeformat=local&channel=G_TIANJIN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_TIANJIN-HD
-
-#EXTINF:-1,安徽卫视
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 http://14.205.92.88:6610/00000002/2/G_ANHUI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860820250131042718500681&programid=G_ANHUI-HD&bandwidth=3765564&ispcode=27&timeformat=local&channel=G_ANHUI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ANHUI-HD
-
-#EXTINF:-1,深圳卫视
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 http://14.205.92.88:6610/00000002/2/SZWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131042758498949&programid=SZWS-HD&bandwidth=12414316&ispcode=27&timeformat=local&channel=SZWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=SZWS-HD
-
-#EXTINF:-1,重庆卫视
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png" group-title="卫视",重庆卫视
 http://14.205.92.88:6610/00000002/2/G_CHONGQING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878220250131042837498192&programid=G_CHONGQING-HD&bandwidth=3822566&ispcode=27&timeformat=local&channel=G_CHONGQING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CHONGQING-HD
-
-#EXTINF:-1,山东卫视
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="卫视",山东卫视
 http://14.205.92.88:6610/00000002/2/G_SHANDONG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3874120250131042934498238&programid=G_SHANDONG-HD&bandwidth=12520048&ispcode=27&timeformat=local&channel=G_SHANDONG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANDONG-HD
-
-#EXTINF:-1,辽宁卫视
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 http://14.205.92.88:6610/00000002/2/G_LIAONING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867020250131043010496949&programid=G_LIAONING-HD&bandwidth=3793689&ispcode=27&timeformat=local&channel=G_LIAONING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_LIAONING-HD
-
-#EXTINF:-1,湖北卫视
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 http://14.205.92.88:6610/00000002/2/G_HUBEI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865620250131043054493938&programid=G_HUBEI-HD&zte_bandwidth=1000&bandwidth=3748419&ispcode=27&timeformat=local&channel=G_HUBEI-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_HUBEI-HD
-
-#EXTINF:-1,四川卫视
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
 http://14.205.92.88:6610/00000002/2/G_SICHUAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250131043133501324&programid=G_SICHUAN-HD&zte_bandwidth=1000&bandwidth=3747216&ispcode=27&timeformat=local&channel=G_SICHUAN-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_SICHUAN-HD
-
-#EXTINF:-1,黑龙江卫视
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png" group-title="卫视",黑龙江卫视
 http://14.205.92.88:6610/00000002/2/G_HEILONGJIANG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861320250131043213499093&programid=G_HEILONGJIANG-HD&bandwidth=12389952&ispcode=27&timeformat=local&channel=G_HEILONGJIANG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEILONGJIANG-HD
-
-#EXTINF:-1,江西卫视
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png" group-title="卫视",江西卫视
 http://14.205.92.88:6610/00000002/2/G_JIANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250131043255501376&programid=G_JIANGXI-HD&zte_bandwidth=1000&bandwidth=3799856&ispcode=27&timeformat=local&channel=G_JIANGXI-HD&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGXI-HD
-
-#EXTINF:-1,东南卫视
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 http://14.205.92.88:6610/00000002/2/G_DONGNAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3879520250131043330498690&programid=G_DONGNAN-HD&bandwidth=3757593&ispcode=27&timeformat=local&channel=G_DONGNAN-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DONGNAN-HD
-
-#EXTINF:-1,贵州卫视
+#EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
 http://14.205.92.88:6610/00000002/2/G_GUIZHOU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3865320250131043411497036&programid=G_GUIZHOU-HD&bandwidth=12372204&ispcode=27&timeformat=local&channel=G_GUIZHOU-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUIZHOU-HD
-
-#EXTINF:-1,广东卫视
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 http://14.205.92.88:6610/00000002/2/GDWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3876320250131043449498727&programid=GDWS-HD&bandwidth=12404841&ispcode=27&timeformat=local&channel=GDWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=GDWS-HD
-
-#EXTINF:-1,河南卫视
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="卫视",河南卫视
 http://14.205.92.88:6610/00000002/2/G_HENAN_HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250131043524499187&programid=G_HENAN_HD&bandwidth=3813091&ispcode=27&timeformat=local&channel=G_HENAN_HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HENAN_HD
-
-#EXTINF:-1,吉林卫视
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png" group-title="卫视",吉林卫视
 http://14.205.92.88:6610/00000002/2/G_JILIN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3881620250131043558498165&programid=G_JILIN-HQ&bandwidth=3808729&ispcode=27&timeformat=local&channel=G_JILIN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_JILIN-HQ
-
-#EXTINF:-1,河北卫视
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 http://14.205.92.88:6610/00000002/2/G_HEBEI-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3864420250131043657499648&programid=G_HEBEI-HQ&bandwidth=12344230&ispcode=27&timeformat=local&channel=G_HEBEI-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEBEI-HQ
-
-#EXTINF:-1,广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
 http://14.205.92.88:6610/00000002/2/G_GUANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250131043738496999&programid=G_GUANGXI-HD&bandwidth=3776995&ispcode=27&timeformat=local&channel=G_GUANGXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUANGXI-HD
-
-#EXTINF:-1,陕西卫视
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
 http://14.205.92.88:6610/00000002/2/G_SHANXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250131043806498144&programid=G_SHANXI-HD&bandwidth=12327235&ispcode=27&timeformat=local&channel=G_SHANXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANXI-HD
-
-#EXTINF:-1,海南卫视
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 http://14.205.92.88:6610/00000002/2/G_HAINAN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131043838499170&programid=G_HAINAN-HQ&bandwidth=3811436&ispcode=27&timeformat=local&channel=G_HAINAN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HAINAN-HQ
-
-#EXTINF:-1,金鹰纪实
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png" group-title="地方",金鹰纪实
 http://14.205.92.91:6610/00000002/2/G_JINYINGJS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878920250209060509874862&programid=G_JINYINGJS-HD&bandwidth=3796998&ispcode=27&timeformat=local&channel=G_JINYINGJS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_JINYINGJS-HD
-
-#EXTINF:-1,纪实科教
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
 http://14.205.92.91:6610/00000002/2/G_BEIJINGJS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880120250131043953496518&programid=G_BEIJINGJS-HD&bandwidth=12405744&ispcode=27&timeformat=local&channel=G_BEIJINGJS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BEIJINGJS-HD
-
-#EXTINF:-1,山西卫视
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视
 http://14.205.92.91:6610/00000002/2/G_SXWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861520250131044040496272&programid=G_SXWS-HD&bandwidth=3862723&ispcode=27&timeformat=local&channel=G_SXWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SXWS-HD
-
-#EXTINF:-1,甘肃卫视
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://14.205.92.91:6610/00000002/2/G_GSWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250131044321500069&programid=G_GSWS-HD&bandwidth=3790531&ispcode=27&timeformat=local&channel=G_GSWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GSWS-HD
-
-#EXTINF:-1,卡酷少儿
+#EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",卡酷少儿
 http://14.205.92.91:6610/00000002/2/G_KKSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863220250131044627499747&programid=G_KKSE-HD&bandwidth=3866032&ispcode=27&timeformat=local&channel=G_KKSE-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_KKSE-HD
-
-#EXTINF:-1,欢笑剧场
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",欢笑剧场4K
 http://14.205.92.91:6610/00000002/2/G_HUANXIAO_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3870120250131044720502543&programid=G_HUANXIAO_4K&bandwidth=23446908&ispcode=27&timeformat=local&channel=G_HUANXIAO_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HUANXIAO_4K
-
-#EXTINF:-1,高尔夫网球
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="地方",高尔夫网球
 http://14.205.92.91:6610/00000002/2/G_GEFWQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3861620250131044906498655&programid=G_GEFWQ&bandwidth=4250003&ispcode=27&timeformat=local&channel=G_GEFWQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GEFWQ
-
-#EXTINF:-1,风云足球
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方",风云足球
 http://14.205.92.91:6610/00000002/2/G_FYZQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3859920250131045003499690&programid=G_FYZQ&bandwidth=4238121&ispcode=27&timeformat=local&channel=G_FYZQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_FYZQ
-
-#EXTINF:-1,央视台球
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方",央视台球
 http://14.205.92.91:6610/00000002/2/G_YSTQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3864420250131045039500053&programid=G_YSTQ&bandwidth=4255718&ispcode=27&timeformat=local&channel=G_YSTQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YSTQ
-
-#EXTINF:-1,世界地理
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方",世界地理
 http://14.205.92.91:6610/00000002/2/G_SJDL/1000.m3u8?version=1.0&IASHttpSessionId=RR3863220250131045118499897&programid=G_SJDL&bandwidth=4305801&ispcode=27&timeformat=local&channel=G_SJDL&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SJDL
-
-#EXTINF:-1,风云剧场
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="地方",风云剧场
 http://14.205.92.91:6610/00000002/2/G_FYJC/1000.m3u8?version=1.0&IASHttpSessionId=RR3859920250131045150499728&programid=G_FYJC&bandwidth=4248348&ispcode=27&timeformat=local&channel=G_FYJC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_FYJC
-
-#EXTINF:-1,女性时尚
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="地方",女性时尚
 http://14.205.92.91:6610/00000002/2/G_NXSH/1000.m3u8?version=1.0&IASHttpSessionId=RR3869120250131045230499702&programid=G_NXSH&bandwidth=4261433&ispcode=27&timeformat=local&channel=G_NXSH&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_NXSH
-
-#EXTINF:-1,怀旧剧场
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="地方",怀旧剧场
 http://14.205.92.91:6610/00000002/2/G_HJJC/1000.m3u8?version=1.0&IASHttpSessionId=RR3879820250131045312501967&programid=G_HJJC&bandwidth=4224284&ispcode=27&timeformat=local&channel=G_HJJC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HJJC
-
-#EXTINF:-1,第一剧场
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="地方",第一剧场
 http://14.205.92.91:6610/00000002/2/G_DYJC/1000.m3u8?version=1.0&IASHttpSessionId=RR3864120250131045344502428&programid=G_DYJC&bandwidth=4237520&ispcode=27&timeformat=local&channel=G_DYJC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DYJC
-
-#EXTINF:-1,风云音乐
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="地方",风云音乐
 http://14.205.92.91:6610/00000002/2/G_FYYY/1000.m3u8?version=1.0&IASHttpSessionId=RR3863920250131045431497201&programid=G_FYYY&bandwidth=4266096&ispcode=27&timeformat=local&channel=G_FYYY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_FYYY
-
-#EXTINF:-1,卫生健康
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",卫生健康
 http://14.205.92.91:6610/00000002/2/G_WSJK/1000.m3u8?version=1.0&IASHttpSessionId=RR3863920250131045514497220&programid=G_WSJK&bandwidth=3892652&ispcode=27&timeformat=local&channel=G_WSJK&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_WSJK
-
-#EXTINF:-1,兵器科技
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方",兵器科技
 http://14.205.92.91:6610/00000002/2/G_BQKJ/1000.m3u8?version=1.0&IASHttpSessionId=RR3877720250131045545496205&programid=G_BQKJ&bandwidth=4306102&ispcode=27&timeformat=local&channel=G_BQKJ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BQKJ
-
-#EXTINF:-1,电视指南
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",电视指南
 http://14.205.92.91:6610/00000002/2/G_DSZN/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250131045914498083&programid=G_DSZN&bandwidth=4277225&ispcode=27&timeformat=local&channel=G_DSZN&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DSZN
-
-#EXTINF:-1,央视精品
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="地方",央视精品
 http://14.205.92.91:6610/00000002/2/G_YSJP/1000.m3u8?version=1.0&IASHttpSessionId=RR3876320250131050007499476&programid=G_YSJP&bandwidth=4250905&ispcode=27&timeformat=local&channel=G_YSJP&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YSJP
-
-#EXTINF:-1,早期教育
+#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="地方",早期教育
 http://14.205.92.91:6610/00000002/2/G_ZQJY/1000.m3u8?version=1.0&IASHttpSessionId=RR3863320250131050113501003&programid=G_ZQJY&bandwidth=4351372&ispcode=27&timeformat=local&channel=G_ZQJY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ZQJY
-
-#EXTINF:-1,动漫秀场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动漫秀场
 http://14.205.92.91:6610/00000002/2/G_DMXC/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250131050254498238&programid=G_DMXC&bandwidth=12371001&ispcode=27&timeformat=local&channel=G_DMXC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DMXC
-
-#EXTINF:-1,游戏风云
+#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="上海",游戏风云
 http://14.205.92.91:6610/00000002/2/G_YXFY/1000.m3u8?version=1.0&IASHttpSessionId=RR3860220250131050353499933&programid=G_YXFY&bandwidth=3763609&ispcode=27&timeformat=local&channel=G_YXFY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YXFY
-
-#EXTINF:-1,魅力足球
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",魅力足球
 http://14.205.92.91:6610/00000002/2/G_MEILIZUQIU/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250131050607498349&programid=G_MEILIZUQIU&bandwidth=12462745&ispcode=27&timeformat=local&channel=G_MEILIZUQIU&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_MEILIZUQIU
-
-#EXTINF:-1,都市剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
 http://14.205.92.91:6610/00000002/2/G_DUSHIJUCHANG/1000.m3u8?version=1.0&IASHttpSessionId=RR3870720250131050658499976&programid=G_DUSHIJUCHANG&zte_bandwidth=1000&bandwidth=12364684&ispcode=27&timeformat=local&channel=G_DUSHIJUCHANG&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_DUSHIJUCHANG
-
-#EXTINF:-1,生活时尚
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="上海",生活时尚
 http://14.205.92.91:6610/00000002/2/G_SHENGHUOSS/1000.m3u8?version=1.0&IASHttpSessionId=RR3862920250131050737496621&programid=G_SHENGHUOSS&bandwidth=3747216&ispcode=27&timeformat=local&channel=G_SHENGHUOSS&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHENGHUOSS
-
-#EXTINF:-1,文物宝库
+#EXTINF:-1 tvg-id="6591" tvg-name="文物宝库" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/WENWUBAOKU.jpg" group-title="地方",文物宝库
 http://14.205.92.91:6610/00000002/2/G_WENWUBAOKU/1000.m3u8?version=1.0&IASHttpSessionId=RR3863920250131050851497686&programid=G_WENWUBAOKU&bandwidth=3817603&ispcode=27&timeformat=local&channel=G_WENWUBAOKU&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_WENWUBAOKU
-
-#EXTINF:-1,峨山县广播电视台
+#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="上海",中国交通频道
+http://14.205.92.87:6610/00000002/2/G_ZGJT/1000.m3u8?version=1.0&IASHttpSessionId=RR3881320250329040817783054&programid=G_ZGJT&bandwidth=8566332&ispcode=27&timeformat=local&channel=G_ZGJT&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7K8cMKGQsx7Qq5ha3IxtZuGIlWtHymbUN6YTYJRxU3yOpa3N8XjBPLYPE8mKE2LgwQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ZGJT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",峨山县广播电视台
 http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId=RR3862920250131050956496690&programid=eshan&zte_bandwidth=1000&bandwidth=3898668&ispcode=27&timeformat=local&channel=eshan&userid=9087700023272&AuthInfo=123&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=eshan
-
-
-
-#EXTINF:-1,北京IPTV 4K
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV 4K
 http://192.168.2.20:35455/bptv/10000100000000050000000003887500.m3u8
-
-#EXTINF:-1,北京IPTV 淘电影
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV 淘电影
 http://192.168.2.20:35455/bptv/10000100000000050000000003887498.m3u8
-
-#EXTINF:-1,北京IPTV 重温经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV 重温经典
 http://192.168.2.20:35455/bptv/10000100000000050000000003887494.m3u8
-
-#EXTINF:-1,北京IPTV 淘剧场
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",北京IPTV 淘剧场
 http://192.168.2.20:35455/bptv/10000100000000050000000003887497.m3u8
-
-#EXTINF:-1,重温经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="地方",重温经典
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
-
-
-#EXTINF:-1,
