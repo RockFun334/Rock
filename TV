@@ -59,6 +59,17 @@ http://14.205.92.88:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessi
 
 
 
+#EXTINF:-1,CHC影迷电影
+http://192.168.2.20:35455/mgtv/952383261.m3u8
+
+#EXTINF:-1,CHC动作电影
+http://192.168.2.20:35455/mgtv/644368714.m3u8
+
+#EXTINF:-1,CHC影迷电影
+http://192.168.2.20:35455/mgtv/644368373.m3u8
+
+
+
 #EXTINF:-1,北京卫视4K
 http://14.205.92.91:6610/00000002/2/G_BJWS-4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3864820250329041324777813&programid=G_BJWS-4K&bandwidth=25305176&ispcode=27&timeformat=local&channel=G_BJWS-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KNmojkk59lCuDtYBghmIvgIY2c8a8J%2B4xM7ZPCWALOUvnD%2B5YWJfax%2BihWDWd8dZg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BJWS-4K
 
@@ -250,8 +261,6 @@ http://14.205.92.91:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId
 
 
 
-#EXTINF:-1,昆明新闻综合
-https://hwapi.yntv.net/ew265l/32l193.m3u8
 
 #EXTINF:-1,楚雄新闻
 http://www.cxzrm.cn/live/cxxwpd.m3u8
@@ -283,17 +292,11 @@ https://hwapi.yntv.net/s5xpv2/9r4ei4.m3u8
 #EXTINF:-1,福贡县广播电视台
 http://zb-live.ynurl.com/fugong/5dd91e43-da42-4d32-81ec-7354b2b36de7.m3u8
 
-#EXTINF:-1,贡山县广播电视台
-http://zb-live.ynurl.com/gongshan/89ef4aea-6525-47cf-8c67-790ae806889d.m3u8
-
 #EXTINF:-1,普洱一套
 http://zhibo.puerw.cn/puer/c752b300-602c-4083-8c5e-f6bb97b58f2d.m3u8
 
 #EXTINF:-1,曲靖一套
 http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
-
-#EXTINF:-1,清廉曲靖
-http://channel.qjrb.cn/nmip-media/channellive/channel125689/playlist.m3u8
 
 #EXTINF:-1,曲靖三套
 http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8
@@ -316,53 +319,11 @@ rtmp://channellive.xsbnw.cn:1935/channellive/bntv2
 #EXTINF:-1,绥江县广播电视台
 http://60.160.23.32:8100/media/livepkgr/sjtv/playlist.m3u8
 
-#EXTINF:-1,瑞丽综合
-http://channel.rlrmtzx.com/nmip-media/channellive/channel100728/playlist.m3u8
-
 #EXTINF:-1,芒市广播电视台
 http://zb-live.ynurl.com/mangshi/0fa89a84-37b5-4de4-8b92-63b19634c213.m3u8
 
 #EXTINF:-1,陇川县广播电视台
 http://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8
-
-#EXTINF:-1,凤凰卫视中文台
-http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-
-#EXTINF:-1,凤凰卫视资讯台
-http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-
-#EXTINF:-1,凤凰卫视香港台
-http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-
-#EXTINF:-1,亚洲卫视
-https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-
-#EXTINF:-1,美亚电影台（国语）
-https://live.tvfix.org/live/mydy/index.m3u8
-
-#EXTINF:-1,TVB翡翠台
-http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-
-#EXTINF:-1,TVB明珠台
-https://live.tvfix.org/live/pearl/index.m3u8
-
-#EXTINF:-1,TVB PLUS
-https://live.tvfix.org/live/inews/index.m3u8
-
-#EXTINF:-1,TVB 娱乐新闻台
-https://live.tvfix.org/live/enews/index.m3u8
-
-#EXTINF:-1,MytvSuper 儿童频道
-https://live.tvfix.org/live/kid/index.m3u8
-
-#EXTINF:-1,海口一套
-https://www.hkbtv.cn/live/tv1001.m3u8
-
-#EXTINF:-1,海口二套
-https://www.hkbtv.cn/live/tv2502.m3u8
-
-#EXTINF:-1,广州南国都市
-https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
 
 #EXTINF:-1,苏州4K频道
 http://tylive.kan0512.com/norecord/csztv4k_4k.m3u8
