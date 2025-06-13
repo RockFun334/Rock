@@ -1,62 +1,61 @@
 #EXTM3U 
 
 #EXTINF:-1,CCTV1
-http://14.205.92.91:6610/00000002/2/CCTV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3881320250612044337132978&programid=CCTV-1-HD&zte_bandwidth=1000&bandwidth=12714816&ispcode=27&timeformat=local&channel=CCTV-1-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7O1wWK2sIS38Iw9%2FUrLz51ZoRTg%2FXZIaI569ioN0RjdjgdI8amrH9geC%2BLml%2BwRl%2BQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=CCTV-1-HD
+http://14.204.32.193:6610/00000002/2/CCTV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV2
-http://14.205.92.90:6610/00000002/2/G_CCTV-2-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860620250612045555128148&programid=G_CCTV-2-HD&zte_bandwidth=1000&bandwidth=12322723&ispcode=27&timeformat=local&channel=G_CCTV-2-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Hg5aQ5CIMmw1X3EDFUlW74kce8P5%2FCJ6Ov7SZH0kqsSs%2Fo5kP%2B7PTTEeqQ3caTiug%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-2-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-2-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV3
-http://14.205.92.91:6610/00000002/2/iptv-cctv3-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3865020250612045517115601&programid=iptv-cctv3-hd&zte_bandwidth=1000&bandwidth=12363331&ispcode=27&timeformat=local&channel=iptv-cctv3-hd&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7HN%2FCSlcitThvkn6BC90RD7ZXEIBNpREAqY7vVH5bHEIzzxHX4oRb%2F%2BPKyqBOnPOXA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv3-hd
+http://14.204.32.193:6610/00000002/2/iptv-cctv3-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV4
-http://14.205.92.88:6610/00000002/2/G_CCTV-4-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880120250612045447135928&programid=G_CCTV-4-HD&zte_bandwidth=1000&bandwidth=12419280&ispcode=27&timeformat=local&channel=G_CCTV-4-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7GTdlT1gUE9rxj08AP9wC7DtNSmUsf%2FUkf%2FGdFlyG5eXDKi7%2F6RLcyFjIMptB%2B3gqQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-4-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-4-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV5
-http://14.205.92.87:6610/00000002/2/iptv-cctv5-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3870720250612045421124171&programid=iptv-cctv5-hd&zte_bandwidth=1000&bandwidth=12409504&ispcode=27&timeformat=local&channel=iptv-cctv5-hd&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7EZvBx6wohmh%2F7bdgOB96OMeyZYJCyo40Rt%2FURTXOr3ipq7SbpGhOm4UIL5obwFBTA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv5-hd
+http://14.204.32.193:6610/00000002/2/iptv-cctv5-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV5+
-http://14.205.92.90:6610/00000002/2/G_CCTV-5PLUS/1000.m3u8?version=1.0&IASHttpSessionId=RR3871720250612044607127389&programid=G_CCTV-5PLUS&zte_bandwidth=1000&bandwidth=3809782&ispcode=27&timeformat=local&channel=G_CCTV-5PLUS&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7F9eD%2FTLCHzhlqpGXSIvallUyXKuP4%2BjugjG4A2qyGJ66np7UOh4hpuTV912o9oWMA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-5PLUS
+http://14.204.32.193:6610/00000002/2/G_CCTV-5PLUS/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV6
-http://14.205.92.90:6610/00000002/2/iptv-cctv6-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3876320250612045348122051&programid=iptv-cctv6-hd&zte_bandwidth=1000&bandwidth=12390553&ispcode=27&timeformat=local&channel=iptv-cctv6-hd&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7B6icIXmCeObbLWDDKJl2yH3qFEIEQOn6ejHc6HA3buwXgbmoj5n6LU4Bqwk2TKRSw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv6-hd
+http://14.204.32.193:6610/00000002/2/iptv-cctv6-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV7
-http://14.205.92.87:6610/00000002/2/G_CCTV-7-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250612045317129970&programid=G_CCTV-7-HD&zte_bandwidth=1000&bandwidth=12397923&ispcode=27&timeformat=local&channel=G_CCTV-7-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7BaQHXC7n7MTdU5qx10eV11WfVPOF6%2BmaRXJLKhkZ8JQNvoql3wxQkIF9iFB0eQbMg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-7-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-7-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV8
-http://14.205.92.88:6610/00000002/2/iptv-cctv8-hd/1000.m3u8?version=1.0&IASHttpSessionId=RR3878220250612045249130666&programid=iptv-cctv8-hd&zte_bandwidth=1000&bandwidth=12355510&ispcode=27&timeformat=local&channel=iptv-cctv8-hd&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KxNE5CDahh6JAMkBeIdvFavH%2BEeW78r%2FUHu5sKUyJVTuqmr0kIvFYMAC7lLtxtrTg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=iptv-cctv8-hd
+http://14.204.32.193:6610/00000002/2/iptv-cctv8-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV9
-http://14.205.92.88:6610/00000002/2/G_CCTV-9-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880120250612045214135389&programid=G_CCTV-9-HD&zte_bandwidth=1000&bandwidth=12410256&ispcode=27&timeformat=local&channel=G_CCTV-9-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LoHGCUO1xAUAjRSpn36enGoixfY6JRv31VYv5O30M5zTxtM7VflHuA9NxvFdQ%2F0bg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-9-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-9-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV10
-http://14.205.92.90:6610/00000002/2/G_CCTV-10-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864220250612045142135578&programid=G_CCTV-10-HD&zte_bandwidth=1000&bandwidth=3819708&ispcode=27&timeformat=local&channel=G_CCTV-10-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KJ0wz%2FBKFcB4qyGBTPHRL%2BX083QUndJfssxFtOy7Sd7uSkTwapMcYkHCr1Fh%2BfCew%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-10-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-10-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV11
-http://14.205.92.91:6610/00000002/2/G-CCTV-11-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3877720250612045048123820&programid=G-CCTV-11-HD&zte_bandwidth=1000&bandwidth=3810083&ispcode=27&timeformat=local&channel=G-CCTV-11-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Puu%2Bwb6vdQcdbvjtimqPC2uA1wRPgJHuTHC6hQRXui%2B%2BigVxxJQUH9Lh%2BxvPHvzbQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G-CCTV-11-HD
+http://14.204.32.193:6610/00000002/2/G-CCTV-11-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV12
-http://14.205.92.88:6610/00000002/2/G_CCTV-12-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3881320250612045014134533&programid=G_CCTV-12-HD&zte_bandwidth=1000&bandwidth=12335657&ispcode=27&timeformat=local&channel=G_CCTV-12-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7JJe9PxnhY%2B%2FWYbuO4zWSUwUJ2RQyVW9rWDajEihZSVECRZsyrR%2BzS3MbEJ%2Bv6FOxw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-12-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-12-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV13
-http://14.205.92.90:6610/00000002/2/CCTV-13-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864220250612044947135146&programid=CCTV-13-HD&zte_bandwidth=1000&bandwidth=12433568&ispcode=27&timeformat=local&channel=CCTV-13-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7PBCXqpXkSqBVpRqVauPyK8uFY7PSLEcRPbvSlrG5pDRuSmsFhPEnH7HmX4kfMV6KA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=CCTV-13-HD
+http://14.204.32.193:6610/00000002/2/CCTV-13-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV14
-http://14.205.92.90:6610/00000002/2/G_CCTV-14-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3878520250612044915121087&programid=G_CCTV-14-HD&zte_bandwidth=1000&bandwidth=3805571&ispcode=27&timeformat=local&channel=G_CCTV-14-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Jzor8AlbV8d9i7UIrHYS2xxGQY67aE3VvqoQHG09ABlRntGiZiZWrJszWfjqBuU%2BQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-14-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-14-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV15
-http://14.205.92.90:6610/00000002/2/G-CCTV-15-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3869120250612044805125182&programid=G-CCTV-15-HD&zte_bandwidth=1000&bandwidth=12543660&ispcode=27&timeformat=local&channel=G-CCTV-15-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Dv3HCLfiAkxOGtj%2BhpkIza%2FgXRzFdpKmMcJY4QIkNyUXIu59pj%2B8B7WKGJv1E2Qfw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G-CCTV-15-HD
+http://14.204.32.193:6610/00000002/2/G-CCTV-15-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV16
-http://14.205.92.91:6610/00000002/2/G_CCTV-16-4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3873820250612044534133308&programid=G_CCTV-16-4K&bandwidth=12354908&ispcode=27&timeformat=local&channel=G_CCTV-16-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7PLQNjybvDeS%2FJ1FnFgK3Bt2tab45vqYU1Dh12g5kQyk%2FTt7yAbBsJ%2B7O8ZMKUuQHg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV-16-4K
+http://14.204.32.193:6610/00000002/2/G_CCTV-16-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV17
-http://14.205.92.88:6610/00000002/2/G_CCTV-17-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860620250612044653126056&programid=G_CCTV-17-HD&zte_bandwidth=1000&bandwidth=3829033&ispcode=27&timeformat=local&channel=G_CCTV-17-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Gezuj1ESD2Ol8vo50sC%2F%2F1taN4cYaKKF44tC4GbJnZccSOktOd5z80%2BwBuB5kBbPQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_CCTV-17-HD
+http://14.204.32.193:6610/00000002/2/G_CCTV-17-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV4K
-http://14.205.92.88:6610/00000002/2/G_CCTV_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3863920250612044424129211&programid=G_CCTV_4K&bandwidth=23814486&ispcode=27&timeformat=local&channel=G_CCTV_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Ml0MDcTgYyxsJyHVxpYpdEMsPHF65Fcg0lpFBpDEZQ2T448b%2B8KC4ph9UCfu3hiiA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CCTV_4K
-
+http://14.204.32.193:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
 #EXTINF:-1,CHC影迷电影
@@ -71,191 +70,190 @@ http://192.168.2.20:35455/mgtv/644368373.m3u8
 
 
 #EXTINF:-1,北京卫视4K
-http://14.205.92.90:6610/00000002/2/G_BJWS-4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3870720250612042456117075&programid=G_BJWS-4K&bandwidth=37388988&ispcode=27&timeformat=local&channel=G_BJWS-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7H19tbP4mHK7RX8KZVOiPJX3ie7hJ4X3GiP9O%2B7E88QGIXNPIITcjwE%2BSsuAYo5CFA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BJWS-4K
+http://14.204.32.193:6610/00000002/2/G_BJWS-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,教育综合
-http://14.205.92.91:6610/00000002/2/G_CETV-1-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3877220250612034548103104&programid=G_CETV-1-HD&bandwidth=12439283&ispcode=27&timeformat=local&channel=G_CETV-1-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7MNj6wDiWNrBWHVo1u6JuC7lVNgN2RAZyfZ6sFT2qFJx650pNsl%2BWiXfLn%2FREw8rgQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CETV-1-HD
+http://14.204.32.193:6610/00000002/2/G_CETV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-#EXTINF:-1,CGTN记录
-http://14.205.92.87:6610/00000002/2/G_CGTVJL-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250612034741113965&programid=G_CGTVJL-HD&bandwidth=12364233&ispcode=27&timeformat=local&channel=G_CGTVJL-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7NGUd%2BuOSEbQp0QoW6QXikymkUWVU4vhZAi%2BM4uJ4847PLKHsB%2FQem28vap5bWOTqg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CGTVJL-HD
+#EXTINF:-1,CGTN纪录片
+http://14.204.32.193:6610/00000002/2/G_CGTVJL-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南卫视
-http://14.205.92.91:6610/00000002/2/G_YUNNAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3859920250612034908102023&programid=G_YUNNAN-HD&zte_bandwidth=1000&bandwidth=12506512&ispcode=27&timeformat=local&channel=G_YUNNAN-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7FZdnUjkGiM7%2Bmx7qUevS3Z6VNCQjLO2akjzCn2BUKlytgMQfqSX18wK2DUiFZBEEw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YUNNAN-HD
+http://14.204.32.193:6610/00000002/2/G_YUNNAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南都市
-http://14.205.92.91:6610/00000002/2/G_YNTV-2-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860620250612034948111996&programid=G_YNTV-2-HD&zte_bandwidth=1000&bandwidth=12566672&ispcode=27&timeformat=local&channel=G_YNTV-2-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7O2qomFyXbbM5yjiT3Gp1hYAwLHhGuA60L1XEh0Rvr%2FCslMb43gBLGmwo5CmJCFJPA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-2-HD
+http://14.204.32.193:6610/00000002/2/G_YNTV-2-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南娱乐
-http://14.205.92.90:6610/00000002/2/G_YNTV-3-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871720250612035017113683&programid=G_YNTV-3-HD&zte_bandwidth=1000&bandwidth=12681728&ispcode=27&timeformat=local&channel=G_YNTV-3-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7N14PxybHbIe89EEY%2B6U7xoYz41aouutxGFhwDY5YmDwrNyIeZ5VcAIDPpc6leb2YA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-3-HD
+http://14.204.32.193:6610/00000002/2/G_YNTV-3-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南影视
-http://14.205.92.91:6610/00000002/2/G_YNTV-5-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3868120250612035057119016&programid=G_YNTV-5-HD&zte_bandwidth=1000&bandwidth=12578854&ispcode=27&timeformat=local&channel=G_YNTV-5-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7GrUfM0wcFY9RarvhxJiS3uV6ShPrQbKboyGCblcZ%2FPOApZxCzwJwA8a8tLgdm9M1g%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-5-HD
+http://14.204.32.193:6610/00000002/2/G_YNTV-5-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南康旅
-http://14.205.92.90:6610/00000002/2/G_YNTV-6-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250612035132114956&programid=G_YNTV-6-HD&zte_bandwidth=1000&bandwidth=12342124&ispcode=27&timeformat=local&channel=G_YNTV-6-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7I34kHaTj52zVi98p4aQBvep1hwWRaZFVLdusz%2Fpzqqu74HFB1RUPnqtSUs6S8N9ow%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTV-6-HD
+http://14.204.32.193:6610/00000002/2/G_YNTV-6-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南少儿
-http://14.205.92.87:6610/00000002/2/G_YNTVSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863220250612035217118182&programid=G_YNTVSE-HD&zte_bandwidth=1000&bandwidth=12396419&ispcode=27&timeformat=local&channel=G_YNTVSE-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7FytlmadjPR7AD%2B1b9BhzGNIy2jVyQvVqL7DmnNkoh4MypIHvmBpYXjNW%2BX07xrrpw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_YNTVSE-HD
+http://14.204.32.193:6610/00000002/2/G_YNTVSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,浙江卫视
-http://14.205.92.91:6610/00000002/2/ZJWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864420250612035302116498&programid=ZJWS-HD&zte_bandwidth=1000&bandwidth=12355209&ispcode=27&timeformat=local&channel=ZJWS-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LoAffmGF%2BCy3jykwDtBu1CkxVNqNojVJ07HAz2IoCYEx28INDLPAxGFVFGb%2FQsKtw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=ZJWS-HD
+http://14.204.32.193:6610/00000002/2/ZJWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,江苏卫视
-http://14.205.92.91:6610/00000002/2/G_JIANGSU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3873420250612035340115465&programid=G_JIANGSU-HD&zte_bandwidth=1000&bandwidth=12383635&ispcode=27&timeformat=local&channel=G_JIANGSU-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7EyrNq0AUGnBYDvTJIZvi6sP0R%2FMgiBjOUYLDhxVg4CpZ5xAvCWz%2FCjWYfzIcXJRaA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGSU-HD
+http://14.204.32.193:6610/00000002/2/G_JIANGSU-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,湖南卫视
-http://14.205.92.87:6610/00000002/2/HNWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864820250612035457113530&programid=HNWS-HD&zte_bandwidth=1000&bandwidth=12327987&ispcode=27&timeformat=local&channel=HNWS-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7B2VOC%2B6MlYWgcrVqsApcvw1dEKTfyQvN8ODk0jyhnUkm9RpzhvdSHR%2FZ%2Bh%2BaIJSag%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=HNWS-HD
+http://14.204.32.193:6610/00000002/2/HNWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,东方卫视
-http://14.205.92.88:6610/00000002/2/DFWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3868520250612035549112293&programid=DFWS-HD&zte_bandwidth=1000&bandwidth=12317008&ispcode=27&timeformat=local&channel=DFWS-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KuO00te5hffHLD48AyeW4hfAY0hhfBm4K0wOERuarZjZAZFJ0lLPEM8eiPPxb7d7Q%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=DFWS-HD
+http://14.204.32.193:6610/00000002/2/DFWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,北京卫视
-http://14.205.92.88:6610/00000002/2/BTV-1/1000.m3u8?version=1.0&IASHttpSessionId=RR3871720250612035626115193&programid=BTV-1&bandwidth=3783011&ispcode=27&timeformat=local&channel=BTV-1&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7FGE2CV7srLjZzDK%2BfgUxMdPhmO9uVEl3%2FApG3iEhb9%2BAY4g2RCMd13anV9POWvCPw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=BTV-1
+http://14.204.32.193:6610/00000002/2/BTV-1/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,天津卫视
-http://14.205.92.91:6610/00000002/2/G_TIANJIN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861620250612035702117602&programid=G_TIANJIN-HD&zte_bandwidth=1000&bandwidth=12526816&ispcode=27&timeformat=local&channel=G_TIANJIN-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7IOoQpZ9bwmmGvoQu%2BC%2Fdkq07BU8yH%2BpTEBrvQdFIkf64G8RPpUYyg7WUExSlFSx2w%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_TIANJIN-HD
+http://14.204.32.193:6610/00000002/2/G_TIANJIN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,安徽卫视
-http://14.205.92.87:6610/00000002/2/G_ANHUI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3866320250612035752110969&programid=G_ANHUI-HD&bandwidth=3853548&ispcode=27&timeformat=local&channel=G_ANHUI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Gw2mJR%2B%2BsdapdfUpZXqemnbho9VICXG3eHvyqBFcO4Z4Wad2%2FJ61EuP%2BB7N96IeVw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ANHUI-HD
+http://14.204.32.193:6610/00000002/2/G_ANHUI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,深圳卫视
-http://14.205.92.87:6610/00000002/2/SZWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3866420250612035823119427&programid=SZWS-HD&bandwidth=12333401&ispcode=27&timeformat=local&channel=SZWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Ob%2FsFvZ9Qp2M%2B3RLbaCKXbikuoEB19K7ZqwuWcVDivfhbs%2BrSnfKT2dhA6AbpjS5A%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=SZWS-HD
+http://14.204.32.193:6610/00000002/2/SZWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,重庆卫视
-http://14.205.92.90:6610/00000002/2/G_CHONGQING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3864820250612035902114602&programid=G_CHONGQING-HD&bandwidth=3764963&ispcode=27&timeformat=local&channel=G_CHONGQING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7PGzaZinYUexNInTtQXqRcSY5uzq5UH1DsyPJuLrK0VdswY7gs5v6ntYU2HRaZh%2Fog%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_CHONGQING-HD
+http://14.204.32.193:6610/00000002/2/G_CHONGQING-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,山东卫视
-http://14.205.92.90:6610/00000002/2/G_SHANDONG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3868120250612035957121288&programid=G_SHANDONG-HD&bandwidth=12529974&ispcode=27&timeformat=local&channel=G_SHANDONG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7AGaB1l7LI999uw%2Fqoyo%2FAOt6zEHL0Uthc12ijppIOhzXXvvM17p7PWrwwlX6b56vw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANDONG-HD
+http://14.204.32.193:6610/00000002/2/G_SHANDONG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,辽宁卫视
-http://14.205.92.91:6610/00000002/2/G_LIAONING-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250612040044125075&programid=G_LIAONING-HD&bandwidth=3817603&ispcode=27&timeformat=local&channel=G_LIAONING-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7ML7P1UNpLJ1iecuHYnRK8wivoLgeGmFwq0klTVVWyY9g%2Bgmp9i%2BjWoGLPUne5aA5w%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_LIAONING-HD
+http://14.204.32.193:6610/00000002/2/G_LIAONING-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,湖北卫视
-http://14.205.92.90:6610/00000002/2/G_HUBEI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3869120250612040117113626&programid=G_HUBEI-HD&zte_bandwidth=1000&bandwidth=3744960&ispcode=27&timeformat=local&channel=G_HUBEI-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7PM4jNl3TpcPoIV34Z2WjOnIposQ4oZw6wl5kHLHWnq13VukDfhAQ3VZDOnxWdF2Cg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_HUBEI-HD
+http://14.204.32.193:6610/00000002/2/G_HUBEI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,四川卫视
-http://14.205.92.91:6610/00000002/2/G_SICHUAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250612040154116131&programid=G_SICHUAN-HD&zte_bandwidth=1000&bandwidth=3781056&ispcode=27&timeformat=local&channel=G_SICHUAN-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7GA7tBQPoC07p%2B7gLX6yPws%2FEh0BelIeHBpoTla%2FsymmbaVZiD3tbaDZ7edNI5zDHw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_SICHUAN-HD
-
-#EXTINF:-1,黑龙江卫视
-http://14.205.92.90:6610/00000002/2/G_HEILONGJIANG-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3872920250612040222118789&programid=G_HEILONGJIANG-HD&bandwidth=12457030&ispcode=27&timeformat=local&channel=G_HEILONGJIANG-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Dvnt8B6nDpK%2Fysbn9%2BRTx%2FxxPTFcd7lG9qPY2cGgjTmhF6NlVqS4mzTJ0AY3rct9w%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEILONGJIANG-HD
-
-#EXTINF:-1,江西卫视
-http://14.205.92.91:6610/00000002/2/G_JIANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250612040301111808&programid=G_JIANGXI-HD&zte_bandwidth=1000&bandwidth=3806624&ispcode=27&timeformat=local&channel=G_JIANGXI-HD&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7AtV86HVhXQiXUzodIuYo%2BhrJUGhSLlYd0UA9jLYJ0kocpcNIC1dONRH%2Fmxnbf4ovg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_JIANGXI-HD
-
-#EXTINF:-1,东南卫视
-http://14.205.92.90:6610/00000002/2/G_DONGNAN-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3881620250612040349108956&programid=G_DONGNAN-HD&bandwidth=3802563&ispcode=27&timeformat=local&channel=G_DONGNAN-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7J1ApjUod%2FrkT%2B6C1XgtKdkibTARoDp78fhztVi1R0imQqB2zwsHDiu4O5RJE%2F7euQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DONGNAN-HD
-
-#EXTINF:-1,贵州卫视
-http://14.205.92.88:6610/00000002/2/G_GUIZHOU-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250612040426118013&programid=G_GUIZHOU-HD&bandwidth=12561257&ispcode=27&timeformat=local&channel=G_GUIZHOU-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7AUCM84HjXEi2n71bPlSSQ2ojvtqTcmsEyhT%2Bn4AIdfMhA2DTcbfDGnGZT8oTradxA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUIZHOU-HD
-
-#EXTINF:-1,广东卫视
-http://14.205.92.88:6610/00000002/2/GDWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3869520250612040458119760&programid=GDWS-HD&bandwidth=12393110&ispcode=27&timeformat=local&channel=GDWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LSDAM%2BMO6SbMmKfvyBYxg%2BaesC9Hgvds%2FEE4xYQE4Ids0%2BDJGK%2Fja4Bq93yE9OX7w%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=GDWS-HD
+http://14.204.32.193:6610/00000002/2/G_SICHUAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,河南卫视
-http://14.205.92.87:6610/00000002/2/G_HENAN_HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3877220250612040529107779&programid=G_HENAN_HD&bandwidth=3751126&ispcode=27&timeformat=local&channel=G_HENAN_HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7M8xUBtKUHCOdTksmylJIxfsHFFZSBpf7bOOSk%2FUulAMLaD67HD%2B83Sp8Vsp1IV4BQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HENAN_HD
+http://14.204.32.193:6610/00000002/2/G_HENAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
+#EXTINF:-1,黑龙江卫视
+http://14.204.32.193:6610/00000002/2/G_HEILONGJIANG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
+#EXTINF:-1,江西卫视
+http://14.204.32.193:6610/00000002/2/G_JIANGXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
+#EXTINF:-1,东南卫视
+http://14.204.32.193:6610/00000002/2/G_DONGNAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
+#EXTINF:-1,贵州卫视
+http://14.204.32.193:6610/00000002/2/G_GUIZHOU-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
+#EXTINF:-1,广东卫视
+http://14.204.32.193:6610/00000002/2/GDWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
+#EXTINF:-1,河南卫视
+http://14.204.32.193:6610/00000002/2/G_HENAN_HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,吉林卫视
-http://14.205.92.88:6610/00000002/2/G_JILIN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3861620250612040559119905&programid=G_JILIN-HQ&bandwidth=3750825&ispcode=27&timeformat=local&channel=G_JILIN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7OFMGYHrLSK8Ka0z%2BxOSH0YY1c7fyK29IdLv7t6zGIwsd0%2FP33zFuBDuVGbjPBx%2FYA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_JILIN-HQ
+http://14.204.32.193:6610/00000002/2/G_JILIN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,河北卫视
-http://14.205.92.90:6610/00000002/2/G_HEBEI-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3873820250612040631123658&programid=G_HEBEI-HQ&bandwidth=12428153&ispcode=27&timeformat=local&channel=G_HEBEI-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LrCvHtmkiPGyWfT8nyPFLcvMkJPDYWDkCzlnVT%2F7XSp5LJ3voNEf9VN2qsNUUXt6g%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HEBEI-HQ
+http://14.204.32.193:6610/00000002/2/G_HEBEI-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,广西卫视
-http://14.205.92.88:6610/00000002/2/G_GUANGXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861920250612040702116852&programid=G_GUANGXI-HD&bandwidth=3770828&ispcode=27&timeformat=local&channel=G_GUANGXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LafiNc1XzKwuTzx%2F9pZQtigRlMPehoKOhCzllHujmO5BnL14z3gdOOyvERwFo%2BSGQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GUANGXI-HD
+http://14.204.32.193:6610/00000002/2/G_GUANGXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,陕西卫视
-http://14.205.92.90:6610/00000002/2/G_SHANXI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3861620250612040733120310&programid=G_SHANXI-HD&bandwidth=12548323&ispcode=27&timeformat=local&channel=G_SHANXI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7BXOyJhkZspD2NcY5F0dKVqAAMOjl0F562403FsfnBjLemedYCUlG%2BtNRK6xpK%2Bnlw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHANXI-HD
+http://14.204.32.193:6610/00000002/2/G_SHANXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,海南卫视
-http://14.205.92.91:6610/00000002/2/G_HAINAN-HQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3869520250612040804120567&programid=G_HAINAN-HQ&bandwidth=3747968&ispcode=27&timeformat=local&channel=G_HAINAN-HQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Cdu%2FIwoCOhQAANjX%2FTa9ZkTZs9h7rr8BuQ1HtN4F%2FECAAC6%2Ft%2BiifbHzefAL6gQRQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HAINAN-HQ
+http://14.204.32.193:6610/00000002/2/G_HAINAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,金鹰纪实
-http://14.205.92.91:6610/00000002/2/G_JINYINGJS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3859920250612040840106859&programid=G_JINYINGJS-HD&bandwidth=3787974&ispcode=27&timeformat=local&channel=G_JINYINGJS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7J%2FRll0joAczyTptyaflF00PTVyNUlmzMR5K5YwteTm4npvd%2FLImzdUXGFPvKR4SpQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_JINYINGJS-HD
+http://14.204.32.193:6610/00000002/2/G_JINYINGJS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,北京纪实科教
-http://14.205.92.91:6610/00000002/2/G_BEIJINGJS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3860120250612040915124396&programid=G_BEIJINGJS-HD&bandwidth=12548323&ispcode=27&timeformat=local&channel=G_BEIJINGJS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7L9SU6SH2j4LfD0xrek8ypMdO%2Bm4LU9rMz%2FPhYdWEzxo1f1U1TFg1s5mQ3WyDv2RWw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BEIJINGJS-HD
+http://14.204.32.193:6610/00000002/2/G_BEIJINGJS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,山西卫视
-http://14.205.92.88:6610/00000002/2/G_SXWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250612040950118093&programid=G_SXWS-HD&bandwidth=3864678&ispcode=27&timeformat=local&channel=G_SXWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7PmOFJtyvIkL8rJwbVS8nVDqKpKAc22YFIv8HD1t7plXzYRGEF3bXhfs9zDlDE%2FYQA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SXWS-HD
+http://14.204.32.193:6610/00000002/2/G_SXWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,甘肃卫视
-http://14.205.92.90:6610/00000002/2/G_GSWS-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3866320250612041027114160&programid=G_GSWS-HD&bandwidth=3854902&ispcode=27&timeformat=local&channel=G_GSWS-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7CyFhcN4hK3tRM37StRubBAafflM1zN2S8rCXU8JR9ptoS7CuHehkIg4nshnQlHUyA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GSWS-HD
+http://14.204.32.193:6610/00000002/2/G_GSWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,青海卫视
-http://14.205.92.87:6610/00000002/2/G_QINGHAI-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3880720250612041115111520&programid=G_QINGHAI-HD&bandwidth=3884531&ispcode=27&timeformat=local&channel=G_QINGHAI-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7NrZexoA2W2ESZ5bEAHqmZkine3a3mIZuO8vGW%2FlWIlagPtb07YRpfKhm5VVw%2BC4ig%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_QINGHAI-HD
+http://14.204.32.193:6610/00000002/2/G_QINGHAI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,卡酷少儿
-http://14.205.92.87:6610/00000002/2/G_KKSE-HD/1000.m3u8?version=1.0&IASHttpSessionId=RR3868120250612041149124206&programid=G_KKSE-HD&bandwidth=3811286&ispcode=27&timeformat=local&channel=G_KKSE-HD&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7A5TmsLP%2BABgmnOIeDpAjiGg2LRhP%2FgiXdcPggXsKJEWVQTc1rr%2FRhFAMbvQRUNHhw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_KKSE-HD
+http://14.204.32.193:6610/00000002/2/G_KKSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,欢笑剧场
-http://14.205.92.91:6610/00000002/2/G_HUANXIAO_4K/1000.m3u8?version=1.0&IASHttpSessionId=RR3871020250612041225119969&programid=G_HUANXIAO_4K&bandwidth=23727555&ispcode=27&timeformat=local&channel=G_HUANXIAO_4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Kta5R4pEGis%2BFknkCHzKgpUTXo0B5gvziw76k7tQz91MlCk68yAWrVskdjar%2BDJng%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HUANXIAO_4K
+http://14.204.32.193:6610/00000002/2/G_HUANXIAO_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,高尔夫网球
-http://14.205.92.91:6610/00000002/2/G_GEFWQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3862720250612041303114203&programid=G_GEFWQ&bandwidth=4272563&ispcode=27&timeformat=local&channel=G_GEFWQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7DI8TW79o%2FV9wyaeGgoAiHqgXDbzLsADepIiOUxoFZ9p%2FG8FCOftkFyG4GwuXiS9rw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GEFWQ
+http://14.204.32.193:6610/00000002/2/G_GEFWQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,风云足球
-http://14.205.92.88:6610/00000002/2/G_FYZQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3876920250612041331109549&programid=G_FYZQ&bandwidth=4321142&ispcode=27&timeformat=local&channel=G_FYZQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LMHlRGhNLKj7rhv%2BomyqcGgnKc79kI1eIS8Jbqf6EzrQgsEhA6ePmTKo2HoaCe6AQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_FYZQ
+http://14.204.32.193:6610/00000002/2/G_FYZQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,央视台球
-http://14.205.92.88:6610/00000002/2/G_YSTQ/1000.m3u8?version=1.0&IASHttpSessionId=RR3863320250612041402109302&programid=G_YSTQ&bandwidth=4247145&ispcode=27&timeformat=local&channel=G_YSTQ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7GbLHzRW3W57vg1xPvDDS3eGT2MIudil5ktR03zeO3LmjwhPM%2BBJ74d9aFu%2FbD%2BtKQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YSTQ
+http://14.204.32.193:6610/00000002/2/G_YSTQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,世界地理
-http://14.205.92.87:6610/00000002/2/G_SJDL/1000.m3u8?version=1.0&IASHttpSessionId=RR3880120250612041433126130&programid=G_SJDL&bandwidth=4263689&ispcode=27&timeformat=local&channel=G_SJDL&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7KyN8Ria3S8UApKMI1m71L%2BPh1ylTY7XlQINIO8JjVRVdv7to2%2FsfTnC%2FDZ%2BeomZDg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SJDL
+http://14.204.32.193:6610/00000002/2/G_SJDL/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,风云剧场
-http://14.205.92.91:6610/00000002/2/G_FYJC/1000.m3u8?version=1.0&IASHttpSessionId=RR3863720250612041505128560&programid=G_FYJC&bandwidth=4241580&ispcode=27&timeformat=local&channel=G_FYJC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Jju6BiLmhglLWM51Qg%2B8vku9rEGV0CHg6fAcVNDqhGug5g3mgG9J8LD4sT87d7ulw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_FYJC
+http://14.204.32.193:6610/00000002/2/G_FYJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,女性时尚
-http://14.205.92.87:6610/00000002/2/G_NXSH/1000.m3u8?version=1.0&IASHttpSessionId=RR3869520250612041535122371&programid=G_NXSH&bandwidth=4239926&ispcode=27&timeformat=local&channel=G_NXSH&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7JhnPMGCMZ1oh4UFDzszFxQHTSp%2BiMEsd06VSsECau7g9owhnh5N76J13qqx3uwccQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_NXSH
+http://14.204.32.193:6610/00000002/2/G_NXSH/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,怀旧剧场
-http://14.205.92.87:6610/00000002/2/G_HJJC/1000.m3u8?version=1.0&IASHttpSessionId=RR3864120250612041602122327&programid=G_HJJC&bandwidth=4244588&ispcode=27&timeformat=local&channel=G_HJJC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7AdTCfxSZ6Vt5v%2FaBlbf5O%2BVCYr4E6JtBgDixMzzZ6wEn1txBoxGXmZf4gONeoibDw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_HJJC
+http://14.204.32.193:6610/00000002/2/G_HJJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,第一剧场
-http://14.205.92.91:6610/00000002/2/G_DYJC/1000.m3u8?version=1.0&IASHttpSessionId=RR3865020250612041630106405&programid=G_DYJC&bandwidth=4223232&ispcode=27&timeformat=local&channel=G_DYJC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7EEzJM3pmgS3yM8QbbVlQtLfnjbwGsihg2iVhqX6Zub0SgezKglI3gqtUREzkT4tsQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DYJC
+http://14.204.32.193:6610/00000002/2/G_DYJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,风云音乐
-http://14.205.92.87:6610/00000002/2/G_FYYY/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250612041659122508&programid=G_FYYY&bandwidth=4268352&ispcode=27&timeformat=local&channel=G_FYYY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Gzgpg%2BOzlGquXcj4yGWDOonbPJ3sxFZyHscajVfunjZF8L9S4OL1ennMQ%2BQ1IFvlw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_FYYY
+http://14.204.32.193:6610/00000002/2/G_FYYY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,卫生健康
-http://14.205.92.87:6610/00000002/2/G_WSJK/1000.m3u8?version=1.0&IASHttpSessionId=RR3860620250612041727118671&programid=G_WSJK&bandwidth=3820611&ispcode=27&timeformat=local&channel=G_WSJK&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7E0na6w5%2FeZIJbGHGxlEyaHzOuk6Qwg1%2FeHC0V5%2BSrAFyzgSGh72uho1prDrRFTkFQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_WSJK
+http://14.204.32.193:6610/00000002/2/G_WSJK/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,兵器科技
-http://14.205.92.88:6610/00000002/2/G_BQKJ/1000.m3u8?version=1.0&IASHttpSessionId=RR3861920250612041754119564&programid=G_BQKJ&bandwidth=4296627&ispcode=27&timeformat=local&channel=G_BQKJ&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Odu%2FpEnABwLfqi6pNnkZVx3phou4K2UHEZc6a6a1ZvzIA3yZNQxssKNmnWShX4%2FTA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_BQKJ
+http://14.204.32.193:6610/00000002/2/G_BQKJ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,电视指南
-http://14.205.92.90:6610/00000002/2/G_DSZN/1000.m3u8?version=1.0&IASHttpSessionId=RR3872020250612041820121729&programid=G_DSZN&bandwidth=4282940&ispcode=27&timeformat=local&channel=G_DSZN&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Itr2srMckzSvxgTWaeptqqNce2gdBnuD1uMnF3Of6lJrt9hwZpQhft0ojCknZiQPg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DSZN
+http://14.204.32.193:6610/00000002/2/G_DSZN/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,央视精品
-http://14.205.92.87:6610/00000002/2/G_YSJP/1000.m3u8?version=1.0&IASHttpSessionId=RR3865020250612041851106976&programid=G_YSJP&bandwidth=4286550&ispcode=27&timeformat=local&channel=G_YSJP&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7M5E%2BAIaPVVwmRhId%2F9NC7S8HX3Izll6YVRCxjFQaVpo49p8DzzdI4ixjmHeU9PbbA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YSJP
+http://14.204.32.193:6610/00000002/2/G_YSJP/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,早期教育
-http://14.205.92.90:6610/00000002/2/G_ZQJY/1000.m3u8?version=1.0&IASHttpSessionId=RR3870120250612041917119936&programid=G_ZQJY&bandwidth=4254364&ispcode=27&timeformat=local&channel=G_ZQJY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7G6StQjzCtGnFeAY1AySTo8JZ5ssjrcw9Bx21h1R7Wc0hSc4q%2FabRuKS646xDITGfg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_ZQJY
+http://14.204.32.193:6610/00000002/2/G_ZQJY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,动漫秀场
-http://14.205.92.91:6610/00000002/2/G_DMXC/1000.m3u8?version=1.0&IASHttpSessionId=RR3861520250612042023118228&programid=G_DMXC&bandwidth=12355209&ispcode=27&timeformat=local&channel=G_DMXC&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Mgrv5H%2Bw2639jw7uapptP%2Bm2B1yEiVZpOaIloE0s4fL49f1dwyOx1K8PHw4q5aI0w%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_DMXC
+http://14.204.32.193:6610/00000002/2/G_DMXC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,游戏风云
-http://14.205.92.90:6610/00000002/2/G_YXFY/1000.m3u8?version=1.0&IASHttpSessionId=RR3862520250612042049120840&programid=G_YXFY&bandwidth=3748720&ispcode=27&timeformat=local&channel=G_YXFY&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Kl87IsCROXuZFzgXwtakk%2FvXKNmtQoGlrWGIcAOjXzLWfGtWD%2FF8j44dqJ2zXICSw%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_YXFY
+http://14.204.32.193:6610/00000002/2/G_YXFY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,魅力足球
-http://14.205.92.90:6610/00000002/2/G_MEILIZUQIU/1000.m3u8?version=1.0&IASHttpSessionId=RR3870120250612042126120479&programid=G_MEILIZUQIU&bandwidth=12352502&ispcode=27&timeformat=local&channel=G_MEILIZUQIU&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7G0vL0qOS5PSVhlXxbzMLCDW3ZwUitYDcDxYCdT%2FsldDss6nMGAxkJsV3Zp6T8UnMA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_MEILIZUQIU
+http://14.204.32.193:6610/00000002/2/G_MEILIZUQIU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,都市剧场
-http://14.205.92.91:6610/00000002/2/G_DUSHIJUCHANG/1000.m3u8?version=1.0&IASHttpSessionId=RR3866420250612042158125074&programid=G_DUSHIJUCHANG&zte_bandwidth=1000&bandwidth=12369497&ispcode=27&timeformat=local&channel=G_DUSHIJUCHANG&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Io9gDQ4xRmpayeJEOmWEKjAkF0J%2BlN%2FB0Hbui6lJpOM0Dzesd0u3tW0XrD0hE25qQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=G_DUSHIJUCHANG
+http://14.204.32.193:6610/00000002/2/G_DUSHIJUCHANG/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,生活时尚
-http://14.205.92.87:6610/00000002/2/G_SHENGHUOSS/1000.m3u8?version=1.0&IASHttpSessionId=RR3860120250612042231127649&programid=G_SHENGHUOSS&bandwidth=3794592&ispcode=27&timeformat=local&channel=G_SHENGHUOSS&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7OX7lQCA5pwuxz2D%2FBjR8VZpVED9ISZCZQMRK92PnnJZmHbB0Y33PISoOk6UxZFGNg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_SHENGHUOSS
+http://14.204.32.193:6610/00000002/2/G_SHENGHUOSS/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,武术世界
-http://14.205.92.90:6610/00000002/2/G_WUSHUSHIJIE/1000.m3u8?version=1.0&IASHttpSessionId=RR3867520250612042323123994&programid=G_WUSHUSHIJIE&bandwidth=3774438&ispcode=27&timeformat=local&channel=G_WUSHUSHIJIE&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7LFDRg8QU5lgk8yqs%2FVMZ%2BEh8r%2Fh%2FXdLJF4geb%2Bv%2FIjrbirn0Ap0NZNqb8xx8N8VfA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_WUSHUSHIJIE
+http://14.204.32.193:6610/00000002/2/G_WUSHUSHIJIE/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,文物宝库
-http://14.205.92.87:6610/00000002/2/G_WENWUBAOKU/1000.m3u8?version=1.0&IASHttpSessionId=RR3880120250612042420128488&programid=G_WENWUBAOKU&bandwidth=3758345&ispcode=27&timeformat=local&channel=G_WENWUBAOKU&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7OW6MedRgK3EfGw7NZiEhfq%2BHMdf1EcqjmMxqhvUs0bpiJo8ptbgf33dSlUIlBoVIg%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_WENWUBAOKU
-
-#EXTINF:-1,峨山县广播电视台
-http://14.205.92.87:6610/00000002/2/eshan/1000.m3u8?version=1.0&IASHttpSessionId=RR3868120250612042606127843&programid=eshan&zte_bandwidth=1000&bandwidth=3877079&ispcode=27&timeformat=local&channel=eshan&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7JSNvrFE8n%2BZcFHDLzAbP8r2%2FnugRT71dvA6%2F%2BbnGY8VkOkPvc3wg9rKhjc1HKUnEQ%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&virtualDomain=00000002.live_hls.zte.com&ztecid=eshan
-
+http://14.204.32.193:6610/00000002/2/G_WENWUBAOKU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
 #EXTINF:-1,楚雄新闻
