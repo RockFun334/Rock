@@ -1,63 +1,63 @@
 #EXTM3U 
 #EXTINF:-1,峨山县广播电视台
-http://14.204.32.193:6610/00000002/2/eshan/1000.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/eshan/1000.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV1
-http://14.204.32.193:6610/00000002/2/CCTV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/CCTV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV2
-http://14.204.32.193:6610/00000002/2/G_CCTV-2-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-2-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV3
-http://14.204.32.193:6610/00000002/2/iptv-cctv3-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/iptv-cctv3-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV4
-http://14.204.32.193:6610/00000002/2/G_CCTV-4-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-4-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV5
-http://14.204.32.193:6610/00000002/2/iptv-cctv5-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/iptv-cctv5-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV5+
-http://14.204.32.193:6610/00000002/2/G_CCTV-5PLUS/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-5PLUS/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV6
-http://14.204.32.193:6610/00000002/2/iptv-cctv6-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/iptv-cctv6-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV7
-http://14.204.32.193:6610/00000002/2/G_CCTV-7-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-7-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV8
-http://14.204.32.193:6610/00000002/2/iptv-cctv8-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/iptv-cctv8-hd/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV9
-http://14.204.32.193:6610/00000002/2/G_CCTV-9-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-9-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV10
-http://14.204.32.193:6610/00000002/2/G_CCTV-10-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-10-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV11
-http://14.204.32.193:6610/00000002/2/G-CCTV-11-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G-CCTV-11-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV12
-http://14.204.32.193:6610/00000002/2/G_CCTV-12-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-12-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV13
-http://14.204.32.193:6610/00000002/2/CCTV-13-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/CCTV-13-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV14
-http://14.204.32.193:6610/00000002/2/G_CCTV-14-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-14-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV15
-http://14.204.32.193:6610/00000002/2/G-CCTV-15-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G-CCTV-15-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV16
-http://14.204.32.193:6610/00000002/2/G_CCTV-16-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-16-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV17
-http://14.204.32.193:6610/00000002/2/G_CCTV-17-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV-17-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CCTV4K
-http://14.204.32.193:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
 #EXTINF:-1,CHC影迷电影
@@ -79,191 +79,192 @@ http://192.168.2.20:35455/mgtv/644368373.m3u8
 http://223.82.161.157:899/hls/53/index.m3u8
 
 
+
 #EXTINF:-1,北京卫视4K
-http://14.204.32.193:6610/00000002/2/G_BJWS-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_BJWS-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,教育综合
-http://14.204.32.193:6610/00000002/2/G_CETV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CETV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,CGTN纪录片
-http://14.204.32.193:6610/00000002/2/G_CGTVJL-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CGTVJL-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南卫视
-http://14.204.32.193:6610/00000002/2/G_YUNNAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YUNNAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南都市
-http://14.204.32.193:6610/00000002/2/G_YNTV-2-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YNTV-2-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南娱乐
-http://14.204.32.193:6610/00000002/2/G_YNTV-3-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YNTV-3-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南影视
-http://14.204.32.193:6610/00000002/2/G_YNTV-5-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YNTV-5-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南康旅
-http://14.204.32.193:6610/00000002/2/G_YNTV-6-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YNTV-6-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,云南少儿
-http://14.204.32.193:6610/00000002/2/G_YNTVSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YNTVSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,浙江卫视
-http://14.204.32.193:6610/00000002/2/ZJWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/ZJWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,江苏卫视
-http://14.204.32.193:6610/00000002/2/G_JIANGSU-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_JIANGSU-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,湖南卫视
-http://14.204.32.193:6610/00000002/2/HNWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/HNWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,东方卫视
-http://14.204.32.193:6610/00000002/2/DFWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/DFWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,北京卫视
-http://14.204.32.193:6610/00000002/2/BTV-1/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/BTV-1/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,天津卫视
-http://14.204.32.193:6610/00000002/2/G_TIANJIN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_TIANJIN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,安徽卫视
-http://14.204.32.193:6610/00000002/2/G_ANHUI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_ANHUI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,深圳卫视
-http://14.204.32.193:6610/00000002/2/SZWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/SZWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,重庆卫视
-http://14.204.32.193:6610/00000002/2/G_CHONGQING-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_CHONGQING-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,山东卫视
-http://14.204.32.193:6610/00000002/2/G_SHANDONG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_SHANDONG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,辽宁卫视
-http://14.204.32.193:6610/00000002/2/G_LIAONING-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_LIAONING-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,湖北卫视
-http://14.204.32.193:6610/00000002/2/G_HUBEI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HUBEI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,四川卫视
-http://14.204.32.193:6610/00000002/2/G_SICHUAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_SICHUAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,河南卫视
-http://14.204.32.193:6610/00000002/2/G_HENAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HENAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,黑龙江卫视
-http://14.204.32.193:6610/00000002/2/G_HEILONGJIANG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HEILONGJIANG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,江西卫视
-http://14.204.32.193:6610/00000002/2/G_JIANGXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_JIANGXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,东南卫视
-http://14.204.32.193:6610/00000002/2/G_DONGNAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_DONGNAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,贵州卫视
-http://14.204.32.193:6610/00000002/2/G_GUIZHOU-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_GUIZHOU-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,广东卫视
-http://14.204.32.193:6610/00000002/2/GDWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/GDWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,河南卫视
-http://14.204.32.193:6610/00000002/2/G_HENAN_HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HENAN_HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,吉林卫视
-http://14.204.32.193:6610/00000002/2/G_JILIN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_JILIN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,河北卫视
-http://14.204.32.193:6610/00000002/2/G_HEBEI-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HEBEI-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,广西卫视
-http://14.204.32.193:6610/00000002/2/G_GUANGXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_GUANGXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,陕西卫视
-http://14.204.32.193:6610/00000002/2/G_SHANXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_SHANXI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,海南卫视
-http://14.204.32.193:6610/00000002/2/G_HAINAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HAINAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,金鹰纪实
-http://14.204.32.193:6610/00000002/2/G_JINYINGJS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_JINYINGJS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,北京纪实科教
-http://14.204.32.193:6610/00000002/2/G_BEIJINGJS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_BEIJINGJS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,山西卫视
-http://14.204.32.193:6610/00000002/2/G_SXWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_SXWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,甘肃卫视
-http://14.204.32.193:6610/00000002/2/G_GSWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_GSWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,青海卫视
-http://14.204.32.193:6610/00000002/2/G_QINGHAI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_QINGHAI-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,卡酷少儿
-http://14.204.32.193:6610/00000002/2/G_KKSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_KKSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,欢笑剧场
-http://14.204.32.193:6610/00000002/2/G_HUANXIAO_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HUANXIAO_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,高尔夫网球
-http://14.204.32.193:6610/00000002/2/G_GEFWQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_GEFWQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,风云足球
-http://14.204.32.193:6610/00000002/2/G_FYZQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_FYZQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,央视台球
-http://14.204.32.193:6610/00000002/2/G_YSTQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YSTQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,世界地理
-http://14.204.32.193:6610/00000002/2/G_SJDL/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_SJDL/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,风云剧场
-http://14.204.32.193:6610/00000002/2/G_FYJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_FYJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,女性时尚
-http://14.204.32.193:6610/00000002/2/G_NXSH/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_NXSH/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,怀旧剧场
-http://14.204.32.193:6610/00000002/2/G_HJJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_HJJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,第一剧场
-http://14.204.32.193:6610/00000002/2/G_DYJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_DYJC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,风云音乐
-http://14.204.32.193:6610/00000002/2/G_FYYY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_FYYY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,卫生健康
-http://14.204.32.193:6610/00000002/2/G_WSJK/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_WSJK/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,兵器科技
-http://14.204.32.193:6610/00000002/2/G_BQKJ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_BQKJ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,电视指南
-http://14.204.32.193:6610/00000002/2/G_DSZN/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_DSZN/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,央视精品
-http://14.204.32.193:6610/00000002/2/G_YSJP/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YSJP/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,早期教育
-http://14.204.32.193:6610/00000002/2/G_ZQJY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_ZQJY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,动漫秀场
-http://14.204.32.193:6610/00000002/2/G_DMXC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_DMXC/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,游戏风云
-http://14.204.32.193:6610/00000002/2/G_YXFY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_YXFY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,魅力足球
-http://14.204.32.193:6610/00000002/2/G_MEILIZUQIU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_MEILIZUQIU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,都市剧场
-http://14.204.32.193:6610/00000002/2/G_DUSHIJUCHANG/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_DUSHIJUCHANG/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,生活时尚
-http://14.204.32.193:6610/00000002/2/G_SHENGHUOSS/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_SHENGHUOSS/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,武术世界
-http://14.204.32.193:6610/00000002/2/G_WUSHUSHIJIE/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_WUSHUSHIJIE/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,文物宝库
-http://14.204.32.193:6610/00000002/2/G_WENWUBAOKU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.183:6610/00000002/2/G_WENWUBAOKU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
 #EXTINF:-1,楚雄新闻
