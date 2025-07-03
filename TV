@@ -83,6 +83,9 @@ http://223.82.161.157:899/hls/53/index.m3u8
 #EXTINF:-1,北京卫视4K
 http://14.204.32.181:6610/00000002/2/G_BJWS-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
+#EXTINF:-1,深圳卫视4K
+http://14.204.32.181:6610/00000002/2/G_SZWS-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+
 #EXTINF:-1,教育综合
 http://14.204.32.183:6610/00000002/2/G_CETV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
