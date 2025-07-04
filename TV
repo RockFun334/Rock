@@ -60,20 +60,15 @@ http://14.204.32.181:6610/00000002/2/G_CCTV-17-HD/index.m3u8?AuthInfo=123&versio
 http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
-#EXTINF:-1,CHC影迷电影
-http://192.168.2.20:35455/mgtv/952383261.m3u8
+
 
 #EXTINF:-1,CHC影迷电影 备用
 http://223.82.161.157:899/hls/51/index.m3u8
 
-#EXTINF:-1,CHC动作电影
-http://192.168.2.20:35455/mgtv/644368714.m3u8
 
 #EXTINF:-1,CHC动作电影 备用
 http://223.82.161.157:899/hls/54/index.m3u8
 
-#EXTINF:-1,CHC家庭影院
-http://192.168.2.20:35455/mgtv/644368373.m3u8
 
 #EXTINF:-1,CHC家庭影院 备用
 http://223.82.161.157:899/hls/53/index.m3u8
