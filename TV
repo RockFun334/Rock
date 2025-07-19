@@ -81,6 +81,9 @@ http://14.204.32.181:6610/00000002/2/G_BJWS-4K/index.m3u8?AuthInfo=123&version=1
 #EXTINF:-1,深圳卫视4K
 http://14.204.32.181:6610/00000002/2/G_SZWS-4K/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
+#EXTINF:-1,广东卫视4K
+http://14.205.92.91:6610/00000002/2/G_GDWS-4K/index.m3u8?version=1.0&IASHttpSessionId=RR3868120250719041625019484&programid=G_GDWS-4K&bandwidth=37575334&ispcode=27&timeformat=local&channel=G_GDWS-4K&virtualDomain=00000002.live_hls.zte.com&userid=9087700023272&AuthInfo=MYu3cPCNroSLzNJZKIdD7Dw1wDKWDBBn9nGpaBsla0Sj6ejvywo7%2BWRjwNfsblwU5RnzNK1t7UQaSXS8RaMDCA%3D%3D&m3u8_level=2&stbid=A6000453001352000000185E0BD98A91&zte_bandwidth=1000&ztecid=G_GDWS-4K
+
 #EXTINF:-1,教育综合
 http://14.204.32.183:6610/00000002/2/G_CETV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
@@ -336,8 +339,7 @@ http://p2.vzan.com/527645544/149039617847513156/live.m3u8
 
 
 
-#EXTINF:-1,翡翠台4K
-http://cdn.132.us.kg/live/fct4k/stream.m3u8
+
 
 #EXTINF:-1,
 
