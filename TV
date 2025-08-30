@@ -62,17 +62,15 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 
-#EXTINF:-1,CHC影迷电影 备用
-http://223.82.161.157:899/hls/51/index.m3u8
+#EXTINF:-1,CHC影迷电影
+http://58.19.180.108:9981/stream/channelid/473633391?profile=pass
 
 
-#EXTINF:-1,CHC动作电影 备用
-http://223.82.161.157:899/hls/54/index.m3u8
+#EXTINF:-1,CHC动作电影 
+http://58.19.180.108:9981/stream/channelid/1782708396?profile=pass
 
-
-#EXTINF:-1,CHC家庭影院 备用
-http://223.82.161.157:899/hls/53/index.m3u8
-
+#EXTINF:-1,CHC家庭影院
+http://58.19.180.108:9981/stream/channelid/2141017443?profile=pass
 
 
 #EXTINF:-1,北京卫视4K
@@ -145,7 +143,7 @@ http://14.204.32.181:6610/00000002/2/G_HUBEI-HD/index.m3u8?AuthInfo=123&version=
 http://14.204.32.181:6610/00000002/2/G_SICHUAN-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 #EXTINF:-1,河南卫视
-http://14.204.32.181:6610/00000002/2/G_HENAN-HQ/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
+http://14.204.32.194:6610/00000003/2/H_HENAN/index.m3u8?virtualDomain=00000003.live_hls.zte.com&IASHttpSessionId=SLB417397120250830062715373244&ispcode=41
 
 #EXTINF:-1,黑龙江卫视
 http://14.204.32.183:6610/00000002/2/G_HEILONGJIANG-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
@@ -297,12 +295,6 @@ http://zb-live.ynurl.com/fugong/5dd91e43-da42-4d32-81ec-7354b2b36de7.m3u8
 
 #EXTINF:-1,普洱一套
 http://zhibo.puerw.cn/puer/c752b300-602c-4083-8c5e-f6bb97b58f2d.m3u8
-
-#EXTINF:-1,曲靖一套
-http://channel.qjrb.cn/nmip-media/channellive/channel124906/playlist.m3u8
-
-#EXTINF:-1,曲靖三套
-http://channel.qjrb.cn/nmip-media/channellive/channel127550/playlist.m3u8
 
 #EXTINF:-1,师宗县广播电视台
 http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
