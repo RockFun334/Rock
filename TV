@@ -93,14 +93,6 @@ http://14.205.92.90:6610/00000002/2/G_HUANXIAO_4K/index.m3u8?AuthInfo=MYu3cPCNro
 
 
 
-#EXTINF:-1,CHC动作电影 
-http://171.113.168.95:8686/rtp/239.69.1.242:11094
-
-#EXTINF:-1,CHC家庭影院
-http://27.223.142.46:4002/udp/239.253.254.152:8000
-
-
-
 #EXTINF:-1,教育综合
 http://14.204.32.183:6610/00000002/2/G_CETV-1-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
