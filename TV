@@ -61,34 +61,34 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 
-广东卫视4K
+#EXTINF:-1,广东卫视4K
 http://14.205.92.90:6610/00000002/2/G_GDWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7F442F3%2BfzwIqXm3ZszMR4VCYKp1BBW7vyd9czzCxHKIH1r%2F%2Fn%2BDrIJXKUgPEX4oJA%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-深圳卫视4K
+#EXTINF:-1,深圳卫视4K
 http://14.205.92.87:6610/00000002/2/G_SZWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7PiyzLVASrlI8un9%2B%2B7lgBOJrTsiY1PoXujaq%2Fa0%2B0b1sNOmC%2FSZV%2BTH8LZgiu%2BRbw%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-湖南卫视4K
+#EXTINF:-1,湖南卫视4K
 http://14.205.92.87:6610/00000002/2/G_HNWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7Ku0gJf6Cd8dsKU7U56EfwNA0w6agsHjzf360bhfb3sxIFYAShXKC0cJl%2BpCIb1A1A%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-东方卫视4K
+#EXTINF:-1,东方卫视4K
 http://14.205.92.87:6610/00000002/2/G_DFWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7PHLIOn9fpHJXdE9OeTR8ZR4f4D%2Bm2rQIvgKK0MRS5u9IJlVEra6dMkE1a9ExhXKjw%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-江苏卫视4K
+#EXTINF:-1,江苏卫视4K
 http://14.205.92.87:6610/00000002/2/G_JSWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7MwNJDJd3jlUbiRwlfohpbie3Ktd4CZqAuF3d8apeo5SHZ4jYUtzWTvxHKpJk20GxA%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-浙江卫视4K
+#EXTINF:-1,浙江卫视4K
 http://14.205.92.87:6610/00000002/2/G_ZJWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7I9h3c7EttLf52r80S%2BGgjyHNi1a5HoWMGQkIuv5wF9wYzoTZAyL%2BFyjky8%2BZOk84g%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-山东卫视4K
+#EXTINF:-1,山东卫视4K
 http://14.205.92.87:6610/00000002/2/G_SDWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7Dx1jlCdFTX2Vk2WUSQj%2FnGYCIdv0EiMr0J32nO7MTOluuCAlTMSdV%2FDgIn1Nv%2BIgg%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-四川卫视4K
+#EXTINF:-1,四川卫视4K
 http://14.205.92.87:6610/00000002/2/G_SCWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7OcNVsTvGyVrB%2FqNVRGV3ecCF9tzPg7nmuvjgGd4ZVi7N%2BenE3gtnd5XVF1ltjACig%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-北京卫视4K
+#EXTINF:-1,北京卫视4K
 http://14.205.92.90:6610/00000002/2/G_BJWS-4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7GN7bDhQX054RZy1ru0cBk8rOqK5DKA%2FlQtFuY7OMbHSBXp4J5EunIpPPXZXstxCWQ%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-欢笑剧场4K
+#EXTINF:-1,欢笑剧场4K
 http://14.205.92.90:6610/00000002/2/G_HUANXIAO_4K/index.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7M3MVibUeOR7mRFvUX6dIAAeT991WtRCy1qqqKXjMLaR9I57lvZqfX7nSraM3SaVhw%3D%3D&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
