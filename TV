@@ -61,27 +61,56 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 
-#EXTINF:-1,广东卫视4K
-http://14.205.92.90:6610/00000002/2/G_GDWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7F442F3%2BfzwIqXm3ZszMR4U6ayX8r%2Bzvol45PEACFB3OZ%2B%2F8GzNIXR%2BxbyIUoBZmpw%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,深圳卫视4K
-http://14.205.92.90:6610/00000002/2/G_SZWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7PiyzLVASrlI8un9%2B%2B7lgBNUCkF5wPgHQKspbbIKfj7jbataWRfmRe1Lvh%2F1OD8czQ%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,湖南卫视4K
-http://14.205.92.88:6610/00000002/2/G_HNWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7Ku0gJf6Cd8dsKU7U56EfwOdfokF4lRGDUekgXjzXiBI8JAegHc2AOVBhKBwnwheyw%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,东方卫视4K
-http://14.205.92.87:6610/00000002/2/G_DFWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7PHLIOn9fpHJXdE9OeTR8ZTQxqdmHkp1DIH6I%2BnoMCVZ4P2H3ID4RjKmKdH7wyBhfg%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,江苏卫视4K
-http://14.205.92.88:6610/00000002/2/G_JSWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7MwNJDJd3jlUbiRwlfohpbiaPdz2EJHV4VPEPrdzwkms7ia4NQqIpY9r7LRz%2B0PPIg%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,浙江卫视4K
-http://14.205.92.88:6610/00000002/2/G_ZJWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7I9h3c7EttLf52r80S%2BGgjycPrJLsKCh3pIpAU7nHlBCpWi1xWUARAayRtbLDUKpkQ%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,山东卫视4K
-http://14.205.92.87:6610/00000002/2/G_SDWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7Dx1jlCdFTX2Vk2WUSQj%2FnEyxzlV6zR6Tb72MDchLhMFdMhMer2%2Fnlraq3ylToCHpg%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,四川卫视4K
-http://14.205.92.88:6610/00000002/2/G_SCWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7OcNVsTvGyVrB%2FqNVRGV3ef%2BgwMoJqHFQx2K2cPMFQ1%2BglNrjMvqArm%2BxZvGjqdl8A%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,北京卫视4K
-http://14.205.92.91:6610/00000002/2/G_BJWS-4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7GN7bDhQX054RZy1ru0cBk8cQRv6KZO%2BRxTfETdnAOrT3AdbqHJhNHfQTmy0h1pJeA%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
-#EXTINF:-1,欢笑剧场4K
-http://14.205.92.91:6610/00000002/2/G_HUANXIAO_4K/1000.m3u8?AuthInfo=MYu3cPCNroSLzNJZKIdD7M3MVibUeOR7mRFvUX6dIABBtxaQnEpMssLkA83J0ct%2FrKue0qj1CzLfhvKjZKtuSw%3D%3D&m3u8&virtualDomain=00000002.live_hls.zte.com
 
+#EXTINF:-1,CHC 动作电影 每日失效
+http://122.141.60.242:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,CHC 高清电影 每日失效
+http://122.141.60.242:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,CHC 家庭影院 每日失效
+http://122.141.60.242:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广东珠江 每日失效
+http://222.218.158.19:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广东民生 每日失效
+http://222.218.158.19:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广东经济科教 每日失效
+http://222.218.158.19:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广东影视 每日失效
+http://222.218.158.19:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广东少儿 每日失效
+http://222.218.158.19:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广西影视 每日失效
+http://222.218.158.19:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,广西综艺旅游 每日失效
+http://222.218.158.19:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,吉林综艺 每日失效
+http://122.141.60.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
+
+
+#EXTINF:-1,
 
 
 #EXTINF:-1,教育综合
