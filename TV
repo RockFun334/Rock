@@ -61,33 +61,6 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 
-#EXTINF:-1,北京卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=btv4k
-
-#EXTINF:-1,上海卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=sh4k
-
-#EXTINF:-1,江苏卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=js4k
-
-#EXTINF:-1,浙江卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=zj4k
-
-#EXTINF:-1,山东卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=sd4k
-
-#EXTINF:-1,湖南卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=hn4k
-
-#EXTINF:-1,广东卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=gd4k
-
-#EXTINF:-1,四川卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=sc4k
-
-#EXTINF:-1,深圳卫视 4K PHP
-http://192.168.2.20:5080/zgst.php?id=sz4k
-
 #EXTINF:-1,cctv1 PHP
 http://192.168.2.20:5080/cctvnewsapp.php?id=cctv1
 
@@ -119,40 +92,6 @@ http://192.168.2.20:5080/cctvnewsapp.php?id=cctv17
 http://192.168.2.20:5080/cctvnewsapp.php?id=cctv4k
 
 
-
-
-#EXTINF:-1,CHC 动作电影 不定时失效
-http://122.141.60.242:9901/tsfile/live/1014_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,CHC 高清电影 不定时失效
-http://122.141.60.242:9901/tsfile/live/1015_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,CHC 家庭影院 不定时失效
-http://122.141.60.242:9901/tsfile/live/1016_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广东珠江 不定时失效
-http://222.218.158.19:8181/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广东民生 不定时失效
-http://222.218.158.19:8181/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广东经济科教 不定时失效
-http://222.218.158.19:8181/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广东影视 不定时失效
-http://222.218.158.19:8181/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广东少儿 不定时失效
-http://222.218.158.19:8181/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广西影视 不定时失效
-http://222.218.158.19:8181/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,广西综艺旅游 不定时失效
-http://222.218.158.19:8181/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,吉林综艺 不定时失效
-http://122.141.60.242:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
 
 #EXTINF:-1,
 
