@@ -61,6 +61,20 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 
+#EXTINF:-1,CHC家庭影院 不定时失效
+http://183.94.91.187:8123/udp/228.0.0.211:6108
+
+#EXTINF:-1,CHC动作电影 不定时失效
+http://183.94.91.187:8123/udp/228.0.0.212:6108
+
+#EXTINF:-1,CHC高清电影 不定时失效
+http://183.94.91.187:8123/udp/228.0.0.233:6108
+
+#EXTINF:-1,
+
+
+
+
 #EXTINF:-1,cctv1 PHP
 http://192.168.2.20:5080/cctvnewsapp.php?id=cctv1
 
