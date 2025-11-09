@@ -62,48 +62,14 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 #EXTINF:-1,CHC家庭影院 不定时失效
-http://183.94.91.187:8123/udp/228.0.0.211:6108
+http://123.10.78.88:40000/rtp/225.1.4.209:1262
 
 #EXTINF:-1,CHC动作电影 不定时失效
-http://183.94.91.187:8123/udp/228.0.0.212:6108
+http://123.10.78.88:40000/rtp/225.1.4.208:1261
 
 #EXTINF:-1,CHC高清电影 不定时失效
-http://183.94.91.187:8123/udp/228.0.0.233:6108
+http://123.10.78.88:40000/rtp/225.1.4.207:1260
 
-#EXTINF:-1,
-
-
-
-
-#EXTINF:-1,cctv1 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv1
-
-#EXTINF:-1,cctv2 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv2
-
-#EXTINF:-1,cctv4 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv4
-
-#EXTINF:-1,cctv7 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv7
-
-#EXTINF:-1,cctv9 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv9
-
-#EXTINF:-1,cctv10 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv10
-
-#EXTINF:-1,cctv12 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv12
-
-#EXTINF:-1,cctv13 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv13
-
-#EXTINF:-1,cctv17 PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv17
-
-#EXTINF:-1,cctv4k PHP
-http://192.168.2.20:5080/cctvnewsapp.php?id=cctv4k
 
 
 
