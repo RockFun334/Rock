@@ -66,17 +66,8 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 #EXTINF:-1,CHC家庭影院 酒店源
 http://222.142.202.119:85/tsfile/live/1079_1.m3u8?key=txiptv&playlive=1&authid=0
 
-#EXTINF:-1,CHC家庭影院 组播源
-http://124.165.112.20:8085/rtp/226.0.2.240:9820
-
 #EXTINF:-1,CHC动作电影 酒店源
 http://222.142.202.119:85/tsfile/live/1064_1.m3u8?key=txiptv&playlive=1&authid=0
-
-#EXTINF:-1,CHC动作电影 组播源
-http://124.165.112.20:8085/rtp/226.0.2.94:8012
-
-#EXTINF:-1,CHC高清电影 组播源
-http://124.165.112.20:8085/rtp/226.0.2.93:8004
 
 
 
