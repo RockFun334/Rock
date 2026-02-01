@@ -62,15 +62,6 @@ http://14.204.32.183:6610/00000002/2/G_CCTV_4K/index.m3u8?AuthInfo=123&version=1
 
 
 
-#EXTINF:-1,广州综合 PHP
-http://192.168.2.20:5080/gztv.php?id=zhonghe
-
-#EXTINF:-1,广州新闻 PHP
-http://192.168.2.20:5080/gztv.php?id=xinwen
-
-#EXTINF:-1,广州南国都市4K PHP
-http://192.168.2.20:5080/gztv.php?id=nanguodushi
-
 
 
 
@@ -258,8 +249,7 @@ http://14.204.32.181:6610/00000002/2/G_WUSHUSHIJIE/index.m3u8?AuthInfo=123&versi
 http://14.204.32.181:6610/00000002/2/G_WENWUBAOKU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
 
-#EXTINF:-1,楚雄新闻
-http://www.cxzrm.cn/live/cxxwpd.m3u8
+
 
 #EXTINF:-1,保山一套
 https://hwapi.yntv.net/7y80ii/7672o4.m3u8
