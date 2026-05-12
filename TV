@@ -86,9 +86,6 @@ http://14.204.32.183:6610/00000002/2/G_YNTV-5-HD/index.m3u8?AuthInfo=123&version
 #EXTINF:-1,云南康旅
 http://14.204.32.183:6610/00000002/2/G_YNTV-6-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-#EXTINF:-1,云南少儿
-http://14.204.32.181:6610/00000002/2/G_YNTVSE-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
-
 #EXTINF:-1,浙江卫视
 http://14.204.32.183:6610/00000002/2/ZJWS-HD/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
@@ -233,9 +230,6 @@ http://14.204.32.181:6610/00000002/2/G_DMXC/index.m3u8?AuthInfo=123&version=1.0&
 #EXTINF:-1,游戏风云
 http://14.204.32.183:6610/00000002/2/G_YXFY/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
-#EXTINF:-1,魅力足球
-http://14.204.32.183:6610/00000002/2/G_MEILIZUQIU/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
-
 #EXTINF:-1,都市剧场
 http://14.204.32.183:6610/00000002/2/G_DUSHIJUCHANG/index.m3u8?AuthInfo=123&version=1.0&virtualDomain=00000002.live_hls.zte.com
 
@@ -269,20 +263,11 @@ https://hwapi.yntv.net/vu7hkj/x6rer3_uhd.m3u8
 #EXTINF:-1,绿春县广播电视台
 http://zb-live.ynurl.com/lvchun/b02460f7-dfaf-4188-8906-4a915521bdf4.m3u8
 
-#EXTINF:-1,华坪县广播电视台
-https://hwapi.yntv.net/xfm214/198968.m3u8
-
 #EXTINF:-1,福贡县广播电视台
 http://zb-live.ynurl.com/fugong/5dd91e43-da42-4d32-81ec-7354b2b36de7.m3u8
 
 #EXTINF:-1,普洱一套
 http://zhibo.puerw.cn/puer/c752b300-602c-4083-8c5e-f6bb97b58f2d.m3u8
-
-#EXTINF:-1,师宗县广播电视台
-http://1033946631.cloudvdn.com/a.m3u8?domain=pili-live-rtmp-szrm-tv.szrmxw.cn&player=1&streamid=szrm-tv:szrm-tv/ynsz&v3=1
-
-#EXTINF:-1,文山新闻综合
-https://hwapi.yntv.net/ew265l/29vf20.m3u8
 
 #EXTINF:-1,麻栗坡县广播电视台
 http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv
